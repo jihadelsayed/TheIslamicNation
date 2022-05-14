@@ -1,0 +1,51 @@
+
+<span>
+
+  <button routerLink="search" mat-button> <span class="mat-h3 LoggaInTitle">Sök </span> <mat-icon>search</mat-icon></button>
+
+</span>
+
+
+
+<button mat-raised-button class="btnAdd" *ngIf="userExist; else showLogin" routerLink="/addservice">Annonsera <mat-icon>
+    add_circle_outline</mat-icon></button>
+
+<ng-template #showLogin>
+
+  <button mat-button [matMenuTriggerFor]="menu1">	 <span class="mat-h3 searchTitle">Logga in </span> <mat-icon>account_circle</mat-icon> </button>
+  <mat-menu #menu1="matMenu">
+    <button mat-menu-item (click)="openDialogLoging()">Logga in</button>
+    <button mat-menu-item (click)="openDialogSignUp()">Registera</button>
+  </mat-menu>
+</ng-template>
+
+<button mat-button routerLink="chat/" *ngIf="userExist;">
+  <mat-icon [matBadge]="messageBadge" [matBadgeHidden]="messageBadge === 0" matBadgeColor="warn">send</mat-icon>
+
+</button>
+<button mat-button routerLink="Approved/" *ngIf="userExist;">
+  <mat-icon [matBadge]="messageBadge" [matBadgeHidden]="messageBadge === 0" matBadgeColor="warn">inbox</mat-icon>
+
+</button>
+
+
+<button mat-button [matMenuTriggerFor]="menu2" *ngIf="userExist;">
+  <div class="imageCont" *ngIf="userInfo['picture'] && userInfo['picture'] !== ''">
+    <img class="imgProfile" src="{{ this.SERVER_URL }}{{userInfo['picture']}}">
+
+  </div>
+</button>
+
+
+
+<mat-menu #menu2="matMenu">
+  <div *ngIf="userExist;">
+    <button mat-button routerLink="/Profile/{{ userInfo.site_id }}/" *ngIf="userExist;">
+      Mitt Sida
+    </button>
+    <button mat-menu-item routerLink="complete">Kompletera profil</button>
+    <button mat-menu-item *ngIf="userExist;" (click)="Subscription()">Prenumeration</button>
+    <button mat-menu-item routerLink="/Profile/{{ userInfo.site_id }}/profileServices">Mina tjänster</button>
+    <button mat-menu-item *ngIf="userExist;" (click)="Logout()">Logga ut</button>
+  </div>
+</mat-menu>

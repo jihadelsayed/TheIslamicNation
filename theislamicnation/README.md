@@ -1,4 +1,4 @@
-# Theislamicnation
+# Theislamicnation.com
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+# packages
+  npm install --save @angular/material @angular/cdk @angular/animations
+  npm i ngx-toastr --save
+  npm install bootstrap --save
+  npm i jquery --save
+  npm install autoprefixer@10.4.5 --save-exact
+

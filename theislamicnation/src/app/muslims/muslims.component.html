@@ -1,0 +1,73 @@
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+
+<div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 col-sm-8 col-lg-6">
+            <!-- Section Heading-->
+            <div class="section_heading text-center wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+              <h3>Our Creative <span> Team</span></h3>
+              <p>
+                عن علي بن أبي طالب أن الرسول قال: «إنَّهُ لم يَكُن قبلي نبيٌّ إلا قد أُعْطيَ سبعةَ رفقاءَ نُجباءَ، وزراءَ، وإنِّي أعطيتُ أربعةَ عشرَ: حمزةُ، وجعفرٌ وعليٌّ وحسنٌ وحُسَيْنٌ وأبو بَكْرٍ وعمرُ والمقدادُ وعبدُ اللَّهِ بنُ مسعودٍ، وأبو ذرٍّ وحُذَيْفةُ، وسلمانُ، وعمَّارٌ، وبلالٌ».
+                Appland is completely creative, lightweight, clean &amp; super responsive app landing page.</p>
+              <div class="line"></div>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <!-- Single Advisor-->
+          <div class="col-12 col-sm-6 col-lg-3" *ngFor="let minster of caliph">
+            <div  class="single_advisor_profile wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+              <!-- Team Thumb-->
+              <div class="advisor_thumb"><img src="{{ minster.img }}" alt="">
+                <!-- Social Info-->
+                <div class="social-info"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-linkedin"></i></a></div>
+              </div>
+              <!-- Team Details-->
+              <div class="single_advisor_details_info">
+                <h6>{{ minster.name }}</h6>
+
+                <p class="designation">Secretary of nation &amp; {{ minster.position }}</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <div class="row justify-content-center">
+          <!-- Single Advisor-->
+          <div class="col-12 col-sm-6 col-lg-3" *ngFor="let minster of primeMinister">
+            <div  class="single_advisor_profile wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+              <!-- Team Thumb-->
+              <div class="advisor_thumb"><img src="{{ minster.img }}" alt="">
+                <!-- Social Info-->
+                <div class="social-info"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-linkedin"></i></a></div>
+              </div>
+              <!-- Team Details-->
+              <div class="single_advisor_details_info">
+                <h6>{{ minster.name }}</h6>
+
+                <p class="designation">Secretary of nation &amp; {{ minster.position }}</p>
+              </div>
+            </div>
+          </div>
+          <!-- Single Advisor-->
+          </div>
+          <div class="row justify-content-center">
+
+          <div class="col-12 col-sm-6 col-lg-3" *ngFor="let minster of minsters">
+            <div  class="single_advisor_profile wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+              <!-- Team Thumb-->
+              <div class="advisor_thumb"><img src="{{ minster.img }}" alt="">
+                <!-- Social Info-->
+                <div class="social-info"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-linkedin"></i></a></div>
+              </div>
+              <!-- Team Details-->
+              <div class="single_advisor_details_info">
+                <h6>{{ minster.name }}</h6>
+
+                <p class="designation">Secretary of nation &amp; {{ minster.position }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>

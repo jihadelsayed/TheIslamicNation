@@ -1,0 +1,36 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.btnAdd{
+  background: rgb(224, 32, 128);
+  color:  #ffffff ;
+
+  border-radius: 15px;
+
+
+
+}
+.imgProfile{
+
+  width: 30px;
+  border: solid 2px  rgb(255, 49, 145);
+  border-radius: 10px;
+
+}
+
+.btnAdd:hover{
+  width: 35%x;
+  height: 90%;
+}
+
+@media screen and (max-width: 600px) {
+
+  .searchTitle, .LoggaInTitle{
+    display: none
+    ;
+
+
+  }
+
+}
