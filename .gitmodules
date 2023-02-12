@@ -7,3 +7,6 @@
 [submodule "TheIslamicNation_Mobile"]
 	path = TheIslamicNation_Mobile
 	url = https://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@github.com/davidpales1/TheIslamicNation_Mobile
+[submodule "TheIslamicNation_Mobile"]
+	path = TheIslamicNation_Athan
+	url = https://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@github.com/davidpales1/TheIslamicNation_Athan
