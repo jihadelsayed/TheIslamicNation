@@ -1,7 +1,7 @@
 {
   "code": 200,
   "status": "OK",
-  "data": [
+  "prophets": [
     {
       "name": "Adam",
       "revelation": "Tawrat",
