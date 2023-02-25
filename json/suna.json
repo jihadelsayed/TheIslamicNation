@@ -1,0 +1,68 @@
+    "suna": {
+      "id":"suna",
+      "description": "السنة هي ماثبت عن رسول الله من قول او فعل او اقرار او صفة خلقية او اخلاقية انا نحن انزلنا الزكر وانا نحن له لحافظون",
+      "parts":{
+        "TrustedSay":{
+          "description": "انا نحن انزلنا الزكر وانا نحن له لحافظون"
+
+        },
+        "TrustedAct":{
+          "description": "انا نحن انزلنا الزكر وانا نحن له لحافظون"
+
+        },
+        "TrustedEndorsement":{
+          "description": "انا نحن انزلنا الزكر وانا نحن له لحافظون"
+        },
+        "CongenitalTrait":{
+          "description": "انا نحن انزلنا الزكر وانا نحن له لحافظون"
+
+        },
+        "MoralTrait":{
+          "description": "انا نحن انزلنا الزكر وانا نحن له لحافظون"
+
+        }
+      },
+      "HadithScholars":{
+        "Speaker":{},
+        "Keeper":{
+          "description": "He is the one who keep 100 000 Hadith in his mind word by word"
+        },
+        "governor":{
+          "description": "He is the one who judges whether the Hadith is authentic or not",
+          "example": "الحاكم النايسبوري"
+        },
+        "ThePrinceOfTheBeliever":{
+          "description": "He is the one who judges whether the Hadith is authentic or not",
+          "example": "البخاري وابن حجر و"
+        }
+      },
+      "HadithTypes":{
+        "motoater":{
+          "shorot":"ماتصل نقله بنقل الضابط عن مثله الى منتهاه من غير شوزوز ولاعلّة",
+          "description": "اذا كان هنالك مجموعة احاديث صحيحة"
+      },
+        "sahih":{
+          "shorot":"ماتصل نقله بنقل الضابط عن مثله الى منتهاه من غير شوزوز ولاعلّة",
+          "description": "اذا كان هنالك خمس شروط كان صحيحا"
+        },
+        "hasan":{
+          "shorot":"ماتصل نقله بنقل الضابط عن مثله الى منتهاه من غير شوزوز ولاعلّة",
+
+          "description": "He is the one who judges whether the Hadith is authentic or not",
+          "example": "الحاكم النايسبوري"
+        },
+        "week":{
+
+          "shorot":"ماتصل نقله بنقل الضابط عن مثله الى منتهاه من غير شوزوز ولاعلّة",
+
+          "description": "He is the one who judges whether the Hadith is authentic or not",
+          "example": "البخاري وابن حجر و"
+        },
+        "maodoa":{
+          "shorot":"ماتصل نقله بنقل الضابط عن مثله الى منتهاه من غير شوزوز ولاعلّة",
+
+          "description": "He is the one who judges whether the Hadith is authentic or not",
+          "example": "البخاري وابن حجر و"
+        }
+      }
+    },
