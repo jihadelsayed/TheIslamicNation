@@ -1,4 +1,6 @@
 {
+  "code": 200,
+  "status": "OK",
   "prophets": [
     {
       "name": "Adam",
@@ -152,9 +154,6 @@
 
 	  "description": "Muhammad is considered the final prophet and messenger of Allah in Islam, and is revered as a religious, political, and military leader. He received revelations from Allah through the angel Gabriel, which were recorded in the Quran. Muhammad is known for his character and teachings, including the Five Pillars of Islam, which form the basis of Muslim practice. He is considered a model of righteous behavior, and his life and teachings continue to inspire Muslims around the world."
 	}
-
-
-
 
   ]
 }
