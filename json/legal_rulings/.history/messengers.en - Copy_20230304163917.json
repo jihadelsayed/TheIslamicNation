@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+        "Mandated Judgment": {
+          "Definition": "A ruling that is derived directly from a clear text of the Quran or Sunnah, and there is no room for interpretation or personal opinion.",
+          "Examples": {
+            "Prayer": "The obligation of performing five daily prayers.",
+            "Fasting": "The obligation of fasting in the month of Ramadan.",
+            "Zakat": "The obligation of giving charity to the needy."
+          }
+        },
+        "Positivist Judgment": {
+          "Definition": "A ruling that is derived through the process of legal reasoning and interpretation of the texts based on the principles of Islamic jurisprudence.",
+          "Examples": {
+            "Cause": "A ruling that is conditional upon the presence of a certain cause or condition, such as the obligation of performing the Dhuhr prayer when the sun is at its zenith.",
+            "Condition": "A ruling that is conditional upon the absence of a certain condition, such as the obligation of performing the prayer in a state of purity.",
+            "Preventive Ruling": "A ruling that is conditional upon the prevention of a certain action or condition, such as the prohibition of inheritance for a killer."
+          },
+          "Subcategories": {
+            "Correct": {
+              "Definition": "A ruling that is considered correct and valid according to Islamic jurisprudence principles and conditions.",
+              "Examples": {
+                "Prayer": "The prayer that fulfills all the necessary conditions and requirements.",
+                "Sale Contract": "A sale contract that meets all the necessary conditions and requirements."
+              }
+            },
+            "Invalid": {
+              "Definition": "A ruling that is considered invalid according to Islamic jurisprudence principles and conditions.",
+              "Examples": {
+                "Prayer": "The prayer that is performed without being in a state of purity.",
+                "Sale Contract": "A sale contract that involves selling something that the seller does not own."
+              }
+            }
+          }
+        },
+        "Definite Judgment": {
+          "Definition": "A ruling that is firmly established in Islamic jurisprudence based on clear and unambiguous evidence, and there is no room for disagreement or doubt among scholars.",
+          "Examples": {
+            "Five Daily Prayers": "The obligation of performing five daily prayers.",
+            "Prohibition of Alcohol": "The prohibition of consuming alcohol."
+          }
+        },
+        "Discretionary Judgment": {
+          "Definition": "A ruling that is based on the discretion of a qualified Islamic scholar, and there is no clear and unambiguous evidence to establish a definite ruling.",
+          "Examples": {
+            "Marriage Dissolution": "The discretionary power of a judge to dissolve a marriage based on the circumstances of the case.",
+            "Donation": "The discretionary power of a trustee to distribute funds among charitable causes."
+          }
+        }
+    }
+    
+  ]
+}

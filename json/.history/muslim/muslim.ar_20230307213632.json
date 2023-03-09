@@ -1,0 +1,74 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "Muslim_history": {
+        "description": "This subcategory includes the history of Muslims and Islamic civilization, from the life of Prophet Muhammad (peace be upon him) to the present day.",
+        "topics": [
+          "Prophet Muhammad's life and teachings",
+          "Islamic civilization",
+          "Islamic empires",
+          "Muslim scholars and thinkers"
+        ]
+      },
+      "Muslim_demographics": {
+        "description": "This subcategory includes information on the global distribution of Muslims, as well as data on their age, gender, education, and socioeconomic status.",
+        "topics": [
+          "Global distribution of Muslims",
+          "Age, gender, education, and socioeconomic status of Muslims",
+          "Muslim minorities and immigration"
+        ]
+      },
+      "Muslim_culture_and_traditions": {
+        "description": "This subcategory includes the various customs, traditions, and practices of Muslim communities around the world, such as dress, food, music, and holidays.",
+        "topics": [
+          "Dress and fashion",
+          "Food and cuisine",
+          "Music and art",
+          "Holidays and celebrations"
+        ]
+      },
+      "Muslim_organizations_and_institutions": {
+        "description": "This subcategory includes the various organizations and institutions that serve Muslim communities, such as mosques, charities, advocacy groups, and educational institutions.",
+        "topics": [
+          "Mosques and Islamic centers",
+          "Charities and relief organizations",
+          "Advocacy groups and human rights organizations",
+          "Educational institutions"
+        ]
+      },
+      "Muslim-majority_countries": {
+        "description": "This subcategory includes information on the countries with the largest Muslim populations, their histories, cultures, politics, and economies.",
+        "topics": [
+          "Islamic history and culture of different regions",
+          "Politics and governance",
+          "Economy and development"
+        ]
+      },
+      
+        "topics": [
+             "Science and technology",
+            "Art and literature",
+            "Philosophy and theology",
+            "Trade and commerce"
+          ],
+        
+          "Muslim_religious_practices": [
+            "Daily prayers",
+            "Fasting during Ramadan",
+            "Charity and Zakat",
+            "Performing pilgrimage to Mecca (Hajj)"
+          ],
+          "Muslim_ethics_and_values": [
+            "Honesty and integrity",
+            "Generosity and kindness",
+            "Compassion and empathy",
+            "Justice and equality"
+          ]
+        
+    
+      
+    }
+  ]
+}
