@@ -2,6 +2,7 @@
   "code": 200,
   "status": "OK",
   "data": [
+    {
       {
         "name":"Islamic_law" ,
         "description": "The principles and guidelines for Muslim life, covering areas such as worship, ethics, marriage and family, business, and criminal justice.",
@@ -63,6 +64,6 @@
           "Role of Sufism in Islamic history and culture"
         ]
       }
-    
+    }
   ]
 }
