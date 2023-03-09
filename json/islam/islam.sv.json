@@ -62,6 +62,84 @@
           "Understanding of Quran and Prophetic traditions",
           "Role of Sufism in Islamic history and culture"
         ]
+      },
+      {
+        "name": "الاجتهادات",
+        "description": "test",
+        "topics": [
+          "test"
+        ]
+      },
+      {
+        "name": "الفقه",
+        "description": "test",
+        "topics": [
+          "test"
+        ]
+      }
+      ,
+      {
+        "name": "العقيدة",
+        "description": "test",
+        "topics": [
+          "test"
+        ]
+      },
+      {
+        "name": "اركان الاسلام",
+        "description": "test",
+        "topics": [
+          "test"
+        ]
+      },
+      {
+        "name": "الشريعة",
+        "description": "test",
+        "topics": [
+          "test"
+        ]
+      },
+      {
+        "name": "المنبر",
+        "description": "test",
+        "topics": [
+          "test"
+        ]
+      },
+      {
+        "name": "الجوامع",
+        "description": "test",
+        "topics": [
+          "test"
+        ]
+      },
+      {
+        "name": "فتاوي",
+        "description": "test",
+        "topics": [
+          "test"
+        ]
+      },
+      {
+        "name": "الايمان",
+        "description": "test",
+        "topics": [
+          "test"
+        ]
+      },
+      {
+        "name": "الاحسان",
+        "description": "test",
+        "topics": [
+          "test"
+        ]
+      },
+      {
+        "name": "العبادة",
+        "description": "test",
+        "topics": [
+          "test"
+        ]
       }
     
   ]
