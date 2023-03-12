@@ -1,0 +1,51 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+     {
+      "name": "Haram",
+      "description": "Actions that are strictly forbidden in Islam and are punishable by Allah. These actions are considered sinful and a Muslim should refrain from committing them.",
+      "examples": [
+        "Consuming alcohol",
+        "Gambling",
+        "Fornication"
+      ]
+    },
+    {
+      "name": "Makruh",
+      "description": "Actions that are discouraged in Islam but not strictly forbidden. Muslims are advised to avoid these actions as they are considered disliked by Allah.",
+      "examples": [
+        "Eating excessively",
+        "Wasting resources",
+        "Being excessively idle"
+      ]
+    },
+    {
+      "name": "Mubah",
+      "description": "Actions that are permissible in Islam and are neither encouraged nor discouraged. Muslims are free to choose whether to engage in these actions or not.",
+      "examples": [
+        "Wearing non-religious clothing",
+        "Eating non-harmful food",
+        "Using non-harmful cosmetics"
+      ]
+    },
+    {
+      "name": "Mandub",
+      "description": "Actions that are encouraged in Islam but not strictly required. Muslims are rewarded for performing these actions.",
+      "examples": [
+        "Praying extra prayers",
+        "Visiting the sick",
+        "Being kind to parents"
+      ]
+    },
+    {
+      "name": "Wajib",
+      "description": "Actions that are mandatory in Islam and Muslims are required to perform them. Neglecting these actions is considered sinful and Muslims may be punished for failing to perform them.",
+      "examples": [
+        "Praying five times a day",
+        "Fasting during Ramadan",
+        "Paying Zakat"
+      ]
+    }
+  ]
+}
