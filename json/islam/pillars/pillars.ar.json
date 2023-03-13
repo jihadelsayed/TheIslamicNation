@@ -18,8 +18,8 @@
       "Description": "Giving a portion of one's wealth to those in need"
     },
     {
-      "title": "fasting",
-      "routerLink": "Fasting",
+      "title": "Fasting",
+      "routerLink": "fasting",
       "Description": "Fasting during the month of Ramadan from dawn until sunset"
     },
     {
