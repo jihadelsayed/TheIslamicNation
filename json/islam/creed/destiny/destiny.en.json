@@ -4,18 +4,22 @@
   "data": [
     {
       "category": "Allah's knowledge of everything",
+     "routerLink": "/",
       "description": "Allah has knowledge of everything, including all events past, present, and future."
     },
     {
       "category": "Allah's writing of everything",
+     "routerLink": "/",
       "description": "Allah has written everything that will happen in a preserved tablet called Al-Lauh Al-Mahfuz."
     },
     {
       "category": "Allah's will and creation of everything",
+     "routerLink": "/",
       "description": "Allah has willed and created everything that exists, including human beings and their actions."
     },
     {
       "category": "Human responsibility and accountability",
+     "routerLink": "/",
       "description": "While everything is predestined by Allah, humans still have free will and are responsible for their actions, and will be held accountable for them on the Day of Judgment."
     }
   ]

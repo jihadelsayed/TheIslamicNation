@@ -2,26 +2,32 @@
   "emotions": [
     {
       "name": "Happiness",
+      "routerLink": "/",
       "description": "A positive emotion characterized by feelings of joy, pleasure, and contentment."
     },
     {
       "name": "Sadness",
+      "routerLink": "/",
       "description": "A negative emotion characterized by feelings of loss, grief, and unhappiness."
     },
     {
       "name": "Fear",
+      "routerLink": "/",
       "description": "A negative emotion characterized by feelings of apprehension, anxiety, and uncertainty."
     },
     {
       "name": "Anger",
+      "routerLink": "/",
       "description": "A negative emotion characterized by feelings of frustration, irritation, and hostility."
     },
     {
       "name": "Surprise",
+      "routerLink": "/",
       "description": "An emotion characterized by feelings of unexpectedness or astonishment."
     },
     {
       "name": "Disgust",
+      "routerLink": "/",
       "description": "A negative emotion characterized by feelings of revulsion or repulsion."
     }
   ]
