@@ -99,7 +99,8 @@
       "description": "Harun, also known as Aaron in the Bible, is the older brother of Musa (Moses) and is considered a prophet in Islam. He is known for his role as a supporter of Musa during their mission to free the Israelites from slavery in Egypt."
     },
     {
-      "name": "Dawud",
+      "name": "david",
+      "routerLink": "david",
       "revelation": "Zabur",
       "lifespan": "circa 1040 BCE – 970 BCE",
       "description": "Dawud, also known as David in the Bible, is considered a prophet and a king in Islam. He is known for his bravery and his victory over the giant Goliath, as well as for his poetry and musical talents."

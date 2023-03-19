@@ -4,33 +4,33 @@
   "data": [
     {
       "title": "Allah",
-      "routerLink": "theCreator",
-      "description": "Muslims believe in one God, who is the creator of the universe and all that exists within it."
+      "routerLink": "Skaparen",
+      "description": "Muslimer tror på en Gud, som är skaparen av universum och allt som finns inom det."
     },
     {
-      "title": "Angels",
-      "routerLink": "angels",
-      "description": "Muslims believe in the existence of angels, who are created beings made of light and who carry out God's commands."
+      "title": "Änglar",
+      "routerLink": "änglar",
+      "description": "Muslimer tror på att det finns änglar, som är skapade varelser gjorda av ljus och som utför Guds befallningar."
     },
     {
-      "title": "prophets",
-      "routerLink": "prophets",
-      "description": "Muslims believe that God sent messengers and prophets to guide humanity throughout history, including Adam, Noah, Abraham, Moses, Jesus, and Muhammad, peace be upon them all."
+      "title": "profeter",
+      "routerLink": "profeter",
+      "description": "Muslimer tror att Gud sände budbärare och profeter för att vägleda mänskligheten genom historien, inklusive Adam, Noa, Abraham, Mose, Jesus och Muhammed, frid vare med dem alla."
     },
     {
-      "title": "Holy Scriptures",
-      "routerLink": "religionsBooks",
-      "description": "Muslims believe in the divine origin of the holy scriptures, including the Quran, the Torah, the Gospel, and the Psalms."
+      "title": "Heliga skrifter",
+      "routerLink": "religionsböcker",
+      "description": "Muslimer tror på de heliga skrifternas gudomliga ursprung, inklusive Koranen, Toran, evangeliet och psalmerna."
     },
     {
-      "title": "Belief in the Day of judgment",
-      "routerLink": "judgmentDay",
-      "description": "Muslims believe in the concept of an afterlife and in the Day of Judgment, when all souls will be held accountable for their actions."
+      "title": "Domens dag",
+      "routerLink": "domsdag",
+      "description": "Muslimer tror på konceptet med ett liv efter detta och på Domedagen, då alla själar kommer att hållas ansvariga för sina handlingar."
     },
     {
-      "title": "Belief in Divine Destiny",
-      "routerLink": "destiny",
-      "description": "Muslims believe in the concept of divine destiny, or qadr, which holds that God has predetermined everything that will happen in the universe."
+      "title": "Gudomligt öde",
+      "routerLink": "öde",
+      "description": "Muslimer tror på begreppet gudomligt öde, eller qadr, som menar att Gud har förutbestämt allt som kommer att hända i universum."
     }
   ]
 }

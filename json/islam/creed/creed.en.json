@@ -23,12 +23,12 @@
       "description": "Muslims believe in the divine origin of the holy scriptures, including the Quran, the Torah, the Gospel, and the Psalms."
     },
     {
-      "title": "Belief in the Day of judgment",
+      "title": "Day of judgment",
       "routerLink": "judgmentDay",
       "description": "Muslims believe in the concept of an afterlife and in the Day of Judgment, when all souls will be held accountable for their actions."
     },
     {
-      "title": "Belief in Divine Destiny",
+      "title": "Divine Destiny",
       "routerLink": "destiny",
       "description": "Muslims believe in the concept of divine destiny, or qadr, which holds that God has predetermined everything that will happen in the universe."
     }

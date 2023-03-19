@@ -13,14 +13,14 @@
       "Description": "Performing five daily prayers at specific times of the day"
     },
     {
-      "title": "Charity",
-      "routerLink": "charity",
-      "Description": "Giving a portion of one's wealth to those in need"
-    },
-    {
       "title": "fasting",
       "routerLink": "Fasting",
       "Description": "Fasting during the month of Ramadan from dawn until sunset"
+    },
+    {
+      "title": "Charity",
+      "routerLink": "charity",
+      "Description": "Giving a portion of one's wealth to those in need"
     },
     {
       "title": "Pilgrimage",

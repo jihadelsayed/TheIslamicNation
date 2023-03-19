@@ -1,0 +1,36 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "name": "Signs of the Day",
+      "routerLink": "signs",
+      "description": "These are the events and phenomena that are said to occur before the Day of Judgment, such as the appearance of the Antichrist (Dajjal), the coming of Imam Mahdi, and the emergence of Gog and Magog."
+    },
+    {
+      "name": "Resurrection",
+      "routerLink": "resurrection",
+      "description": "This refers to the belief that all human beings will be resurrected on the Day of Judgment, and their bodies will be brought back to life."
+    },
+    {
+      "name": "Accountability",
+      "routerLink": "accountability",
+      "description": "This refers to the belief that on the Day of Judgment, every person will be held accountable for their actions in life and will be rewarded or punished accordingly."
+    },
+    {
+      "name": "Hell",
+      "routerLink": "hell",
+      "description": "This is a place of punishment for those who disobeyed Allah and lived a sinful life. Hell is described as a place of intense suffering and torment, where the inhabitants will be subjected to various forms of punishment. These punishments are believed to include burning in fire, drinking boiling water, and being dragged across hot coals. According to Islamic belief, the punishments in Hell are eternal, and there is no escape from it once a person is sent there."
+    },
+    {
+      "name": "Intercession",
+      "routerLink": "intercession",
+      "description": "This refers to the belief that certain individuals, such as prophets and righteous people, will be granted the ability to intercede on behalf of others on the Day of Judgment."
+    },
+    {
+      "name": "Paradise",
+      "routerLink": "paradise",
+      "description": "This is a place of reward for those who lived a righteous life and followed the commands of Allah. Paradise is described as a place of immense beauty, where the inhabitants will be granted various blessings and pleasures. These include gardens with flowing rivers, beautiful companions, and delicious food and drink. According to Islamic belief, the rewards in Paradise are eternal, and there is no end to the happiness and blessings that the inhabitants will experience."
+    }
+  ]
+}

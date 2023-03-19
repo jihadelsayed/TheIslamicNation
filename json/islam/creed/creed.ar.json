@@ -3,34 +3,34 @@
   "status": "OK",
   "data": [
     {
-      "title": "Allah",
+      "title": "الله",
       "routerLink": "theCreator",
-      "description": "Muslims believe in one God, who is the creator of the universe and all that exists within it."
+      "description": "يؤمن المسلمون بإله واحد خالق الكون وكل ما فيه"
     },
     {
-      "title": "Angels",
+      "title": "الملائكة",
       "routerLink": "angels",
-      "description": "Muslims believe in the existence of angels, who are created beings made of light and who carry out God's commands."
+      "description": "يؤمن المسلمون بوجود الملائكة وهم كائنات مخلوقة من نور وتقوم بأوامر الله"
     },
     {
-      "title": "prophets",
+      "title": "الأنبياء",
       "routerLink": "prophets",
-      "description": "Muslims believe that God sent messengers and prophets to guide humanity throughout history, including Adam, Noah, Abraham, Moses, Jesus, and Muhammad, peace be upon them all."
+      "description": "يؤمن المسلمون أن الله أرسل رسلاً وأنبياء ليهتدوا عبر التاريخ ، منهم آدم ونوح وإبراهيم وموسى وعيسى ومحمد عليهم السلام جميعاً"
     },
     {
-      "title": "Holy Scriptures",
+      "title": "الكتب المقدسة",
       "routerLink": "religionsBooks",
-      "description": "Muslims believe in the divine origin of the holy scriptures, including the Quran, the Torah, the Gospel, and the Psalms."
+      "description": "يؤمن المسلمون بالأصل الإلهي للكتب المقدسة بما في ذلك القرآن والتوراة والإنجيل والمزامير"
     },
     {
-      "title": "Belief in the Day of judgment",
+      "title": "يوم القيامة",
       "routerLink": "judgmentDay",
-      "description": "Muslims believe in the concept of an afterlife and in the Day of Judgment, when all souls will be held accountable for their actions."
+      "description": "يؤمن المسلمون بمفهوم الآخرة ويوم القيامة حيث ستُحاسب النفوس على أفعالها"
     },
     {
-      "title": "Belief in Divine Destiny",
+      "title": "القضاء والقدر",
       "routerLink": "destiny",
-      "description": "Muslims believe in the concept of divine destiny, or qadr, which holds that God has predetermined everything that will happen in the universe."
+      "description": "يؤمن المسلمون بمفهوم القدر ، أو القدر الذي يرى أن الله قد حدد سلفًا كل ما سيحدث في الكون"
     }
   ]
 }

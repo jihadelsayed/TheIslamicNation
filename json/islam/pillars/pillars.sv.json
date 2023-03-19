@@ -3,29 +3,29 @@
   "status": "OK",
   "data": [
     {
-      "title": "Testimony",
+      "title": "Vittnesbörd",
       "routerLink": "testimony",
-      "Description": "Declaration of faith in the oneness of Allah and the prophethood of Muhammad"
+      "Description": "Förklaring om tro på Allahs enhet och Muhammeds profetskap"
     },
     {
-      "title": "Prayers",
+      "title": "Böner",
       "routerLink": "prayers",
-      "Description": "Salah, also known as prayer, is one of the Five Pillars of Islam and is considered an obligatory act of worship for Muslims. It involves performing a set of physical movements and reciting specific verses from the Qur'an. Muslims are required to perform five daily prayers at specific times throughout the day: Fajr (before sunrise), Dhuhr (after midday, but before the time for Asr prayer begins), Asr (in the late afternoon), Maghrib (just after sunset), and Isha (after the twilight has disappeared and before midnight). During prayer, Muslims stand facing the Kaaba in Mecca, which is considered the holiest site in Islam. The prayer involves a sequence of physical movements, including standing, bowing, prostrating, and sitting. The recitation of specific verses from the Qur'an is also an important part of the prayer. Prayer is considered an important aspect of a Muslim's spiritual life and is believed to strengthen their connection with Allah. It is also seen as a way to express gratitude and seek forgiveness."
+      "Description": "Utför fem dagliga böner vid specifika tider på dagen"
     },
     {
-      "title": "Charity",
-      "routerLink": "charity",
-      "Description": "Giving a portion of one's wealth to those in need"
-    },
-    {
-      "title": "fasting",
+      "title": "fasta",
       "routerLink": "Fasting",
-      "Description": "Fasting during the month of Ramadan from dawn until sunset"
+      "Description": "Fasta under månaden Ramadan från gryning till solnedgång"
     },
     {
-      "title": "Pilgrimage",
+      "title": "Välgörenhet",
+      "routerLink": "charity",
+      "Description": "Att ge en del av sin förmögenhet till de behövande"
+    },
+    {
+      "title": "Pilgrimsfärd",
       "routerLink": "pilgrimage",
-      "Description": "Making a pilgrimage to the holy city of Mecca at least once in a lifetime"
+      "Description": "Pilgrimsfärd till den heliga staden Mecka minst en gång i livet"
     }
   ]
 }
