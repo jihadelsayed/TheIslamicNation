@@ -3,7 +3,7 @@
   "status":"OK",
   "data":[
     {
-      "name":"\u0627\u0644\u0631\u064e\u0651\u062d\u0652\u0645\u064e\u0646\u064f",
+      "title":"\u0627\u0644\u0631\u064e\u0651\u062d\u0652\u0645\u064e\u0646\u064f",
       "transliteration":"Ar Rahmaan",
       "number":1,
       "found": "(1:3) (17:110)",
@@ -17,7 +17,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0631\u064e\u0651\u062d\u0650\u064a\u0645\u064f",
+      "title":"\u0627\u0644\u0631\u064e\u0651\u062d\u0650\u064a\u0645\u064f",
       "transliteration":"Ar Raheem",
       "number":2,
       "found": "(2:163) (3: 31) (4:100) (5:3)",
@@ -31,7 +31,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064e\u0644\u0650\u0643\u064f",
+      "title":"\u0627\u0644\u0652\u0645\u064e\u0644\u0650\u0643\u064f",
       "transliteration":"Al Malik",
       "number":3,
       "found": "(20:114)(23:116)(59:23)(62:1)",
@@ -45,7 +45,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0642\u064f\u062f\u064f\u0651\u0648\u0633\u064f",
+      "title":"\u0627\u0644\u0652\u0642\u064f\u062f\u064f\u0651\u0648\u0633\u064f",
       "transliteration":"Al Quddus",
       "number":4,
       "found": "(59:23) (62:1)",
@@ -59,13 +59,13 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0633\u064e\u0651\u0644\u0627\u064e\u0645\u064f",
+      "title":"\u0627\u0644\u0633\u064e\u0651\u0644\u0627\u064e\u0645\u064f",
       "transliteration":"As Salaam",
       "number":5,
       "found": "(59:23)",
       "en":{
         "meaning":"The Source of Peace",
-        "desc": "The one who provides peace, calm and serenity. By citing this name, we declare peace for ourselves and for those around us."
+        "desc": "The one who provides peace, calm and serenity. By citing this title, we declare peace for ourselves and for those around us."
       },
       "fr":{
         "meaning":"La Paix",
@@ -73,13 +73,13 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064f\u0624\u0652\u0645\u0650\u0646\u064f",
+      "title":"\u0627\u0644\u0652\u0645\u064f\u0624\u0652\u0645\u0650\u0646\u064f",
       "transliteration":"Al Mu'min",
       "number":6,
       "found": "(59:23)",
       "en":{
         "meaning":"The inspirer of faith",
-        "desc": "The meaning of this name is the guarantor. This name is mysterious even for Muslims because \\\"Al-Mu'min\\\" comes from the name \\\"Al-iman\\\" which means to believe, from where comes the name \\\"Al-Mu'minoune\\\" which means believers, it is is the name of the Koran for people who believe in 6 things: the oneness of God, the existence of angels, holy books (Torah, Gospel and Psalms (Zabor) unmodified and the Koran), the prophets, the last day (the day of judgment) and fate its evil and its good. The exact meaning of this name is very difficult to pin down in its original meaning but can be understood from a deeper and more mystical point of view."
+        "desc": "The meaning of this title is the guarantor. This title is mysterious even for Muslims because \\\"Al-Mu'min\\\" comes from the title \\\"Al-iman\\\" which means to believe, from where comes the title \\\"Al-Mu'minoune\\\" which means believers, it is is the title of the Koran for people who believe in 6 things: the oneness of God, the existence of angels, holy books (Torah, Gospel and Psalms (Zabor) unmodified and the Koran), the prophets, the last day (the day of judgment) and fate its evil and its good. The exact meaning of this title is very difficult to pin down in its original meaning but can be understood from a deeper and more mystical point of view."
       },
       "fr":{
         "meaning":"La Sauvegarde",
@@ -87,7 +87,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064f\u0647\u064e\u064a\u0652\u0645\u0650\u0646\u064f",
+      "title":"\u0627\u0644\u0652\u0645\u064f\u0647\u064e\u064a\u0652\u0645\u0650\u0646\u064f",
       "transliteration":"Al Muhaymin",
       "number":7,
       "found": "(59:23)",
@@ -101,7 +101,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0639\u064e\u0632\u0650\u064a\u0632\u064f",
+      "title":"\u0627\u0644\u0652\u0639\u064e\u0632\u0650\u064a\u0632\u064f",
       "transliteration":"Al Azeez",
       "number":8,
       "found": "(3:6)(4:15 8)(9:40)(4 8:7)",
@@ -115,7 +115,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u062c\u064e\u0628\u064e\u0651\u0627\u0631\u064f",
+      "title":"\u0627\u0644\u0652\u062c\u064e\u0628\u064e\u0651\u0627\u0631\u064f",
       "transliteration":"Al Jabbaar",
       "number":9,
       "found": "(59:23)",
@@ -129,7 +129,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064f\u062a\u064e\u0643\u064e\u0628\u0650\u0651\u0631\u064f",
+      "title":"\u0627\u0644\u0652\u0645\u064f\u062a\u064e\u0643\u064e\u0628\u0650\u0651\u0631\u064f",
       "transliteration":"Al Mutakabbir",
       "number":10,
       "found": "(59:23)",
@@ -143,7 +143,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u062e\u064e\u0627\u0644\u0650\u0642\u064f",
+      "title":"\u0627\u0644\u0652\u062e\u064e\u0627\u0644\u0650\u0642\u064f",
       "transliteration":"Al Khaaliq",
       "number":11,
       "found": "(6:102)(13:16)(39:62)(40:62)(59:24)",
@@ -157,7 +157,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0628\u064e\u0627\u0631\u0650\u0626\u064f",
+      "title":"\u0627\u0644\u0652\u0628\u064e\u0627\u0631\u0650\u0626\u064f",
       "transliteration":"Al Baari",
       "number":12,
       "found": "(59:24)",
@@ -171,7 +171,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064f\u0635\u064e\u0648\u0650\u0651\u0631\u064f",
+      "title":"\u0627\u0644\u0652\u0645\u064f\u0635\u064e\u0648\u0650\u0651\u0631\u064f",
       "transliteration":"Al Musawwir",
       "number":13,
       "found": "(59:24)",
@@ -185,7 +185,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u063a\u064e\u0641\u064e\u0651\u0627\u0631\u064f",
+      "title":"\u0627\u0644\u0652\u063a\u064e\u0641\u064e\u0651\u0627\u0631\u064f",
       "transliteration":"Al Ghaffaar",
       "number":14,
       "found": "(20:82)(38:66)(39:5)(40:42)(71:10)",
@@ -199,7 +199,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0642\u064e\u0647\u064e\u0651\u0627\u0631\u064f",
+      "title":"\u0627\u0644\u0652\u0642\u064e\u0647\u064e\u0651\u0627\u0631\u064f",
       "transliteration":"Al Qahhaar",
       "number":15,
       "found": "(13:16)(14:48)(38:65)(39:4)(40:16)",
@@ -213,7 +213,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0648\u064e\u0647\u064e\u0651\u0627\u0628\u064f",
+      "title":"\u0627\u0644\u0652\u0648\u064e\u0647\u064e\u0651\u0627\u0628\u064f",
       "transliteration":"Al Wahhaab",
       "number":16,
       "found": "(3:8)(38:9)(38:35)",
@@ -227,7 +227,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0631\u064e\u0651\u0632\u064e\u0651\u0627\u0642\u064f",
+      "title":"\u0627\u0644\u0631\u064e\u0651\u0632\u064e\u0651\u0627\u0642\u064f",
       "transliteration":"Ar Razzaaq",
       "number":17,
       "found": "(51:58)",
@@ -241,13 +241,13 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0641\u064e\u062a\u064e\u0651\u0627\u062d\u064f",
+      "title":"\u0627\u0644\u0652\u0641\u064e\u062a\u064e\u0651\u0627\u062d\u064f",
       "transliteration":"Al Fattaah",
       "number":18,
       "found": "(34:26)",
       "en":{
         "meaning":"The Opener",
-        "desc": "Is He Who alone knows the keys to the future and the unknown, by His knowledge and by His wisdom. This name is often associated with the following name \"Al-‘Alīm\"."
+        "desc": "Is He Who alone knows the keys to the future and the unknown, by His knowledge and by His wisdom. This title is often associated with the following title \"Al-‘Alīm\"."
       },
       "fr":{
         "meaning":"Le Grand Juge",
@@ -255,7 +255,7 @@
       }
     },
     {
-      "name":"\u0627\u064e\u0644\u0652\u0639\u064e\u0644\u0650\u064a\u0652\u0645\u064f",
+      "title":"\u0627\u064e\u0644\u0652\u0639\u064e\u0644\u0650\u064a\u0652\u0645\u064f",
       "transliteration":"Al 'Aleem",
       "number":19,
       "found": "(2:158)(3:92)(4:35)(24:41)(33:40)",
@@ -269,7 +269,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0642\u064e\u0627\u0628\u0650\u0636\u064f",
+      "title":"\u0627\u0644\u0652\u0642\u064e\u0627\u0628\u0650\u0636\u064f",
       "transliteration":"Al Qaabid",
       "number":20,
       "found": "(2:245)",
@@ -283,7 +283,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0628\u064e\u0627\u0633\u0650\u0637\u064f",
+      "title":"\u0627\u0644\u0652\u0628\u064e\u0627\u0633\u0650\u0637\u064f",
       "transliteration":"Al Baasit",
       "number":21,
       "found": "(2:245)",
@@ -297,7 +297,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u062e\u064e\u0627\u0641\u0650\u0636\u064f",
+      "title":"\u0627\u0644\u0652\u062e\u064e\u0627\u0641\u0650\u0636\u064f",
       "transliteration":"Al Khaafid",
       "number":22,
       "found": "(95:5)",
@@ -311,7 +311,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0631\u064e\u0651\u0627\u0641\u0650\u0639\u064f",
+      "title":"\u0627\u0644\u0631\u064e\u0651\u0627\u0641\u0650\u0639\u064f",
       "transliteration":"Ar Raafi'",
       "number":23,
       "found": "(58:11)(6:83)",
@@ -325,7 +325,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064f\u0639\u0650\u0632\u064f\u0651",
+      "title":"\u0627\u0644\u0652\u0645\u064f\u0639\u0650\u0632\u064f\u0651",
       "transliteration":"Al Mu'iz",
       "number":24,
       "found": "(3:26)",
@@ -339,7 +339,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0645\u064f\u0630\u0650\u0644\u064f\u0651",
+      "title":"\u0627\u0644\u0645\u064f\u0630\u0650\u0644\u064f\u0651",
       "transliteration":"Al Mudhil",
       "number":25,
       "found": "(3:26)",
@@ -353,7 +353,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0633\u064e\u0651\u0645\u0650\u064a\u0639\u064f",
+      "title":"\u0627\u0644\u0633\u064e\u0651\u0645\u0650\u064a\u0639\u064f",
       "transliteration":"As Samee'",
       "number":26,
       "found": "(2:127)(2:256)(8:17)(49:1)",
@@ -367,7 +367,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0628\u064e\u0635\u0650\u064a\u0631\u064f",
+      "title":"\u0627\u0644\u0652\u0628\u064e\u0635\u0650\u064a\u0631\u064f",
       "transliteration":"Al Baseer",
       "number":27,
       "found": "(4:58)(17:1)(42:11)(42:27)",
@@ -381,7 +381,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u062d\u064e\u0643\u064e\u0645\u064f",
+      "title":"\u0627\u0644\u0652\u062d\u064e\u0643\u064e\u0645\u064f",
       "transliteration":"Al Hakam",
       "number":28,
       "found": "(22:69)",
@@ -395,7 +395,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u064f",
+      "title":"\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u064f",
       "transliteration":"Al 'Adl",
       "number":29,
       "found": "(6:115)",
@@ -409,7 +409,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0644\u064e\u0651\u0637\u0650\u064a\u0641\u064f",
+      "title":"\u0627\u0644\u0644\u064e\u0651\u0637\u0650\u064a\u0641\u064f",
       "transliteration":"Al Lateef",
       "number":30,
       "found": "(6:103)(22:63)(31:16)(33:34)",
@@ -423,7 +423,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u062e\u064e\u0628\u0650\u064a\u0631\u064f",
+      "title":"\u0627\u0644\u0652\u062e\u064e\u0628\u0650\u064a\u0631\u064f",
       "transliteration":"Al Khabeer",
       "number":31,
       "found": "(6:18)(17:30)(49:13)(59:18)",
@@ -437,7 +437,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u062d\u064e\u0644\u0650\u064a\u0645\u064f",
+      "title":"\u0627\u0644\u0652\u062d\u064e\u0644\u0650\u064a\u0645\u064f",
       "transliteration":"Al Haleem",
       "number":32,
       "found": "(2:235)(17:44)(22:59)(35:41)",
@@ -451,13 +451,13 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0639\u064e\u0638\u0650\u064a\u0645\u064f",
+      "title":"\u0627\u0644\u0652\u0639\u064e\u0638\u0650\u064a\u0645\u064f",
       "transliteration":"Al 'Azeem",
       "number":33,
       "found": "(2:255)(42:4)(56:96)",
       "en":{
         "meaning":"The Maginificent",
-        "desc": "This name is difficult to translate because it includes several French words that do not share the same spiritual meaning, but it can be approached as follows: \"Al-Adhīm\" He who is Gigantic Majestic and Fantastically Grandiose far from any bodily or material imperfection"
+        "desc": "This title is difficult to translate because it includes several French words that do not share the same spiritual meaning, but it can be approached as follows: \"Al-Adhīm\" He who is Gigantic Majestic and Fantastically Grandiose far from any bodily or material imperfection"
       },
       "fr":{
         "meaning":"L'Immense",
@@ -465,7 +465,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u063a\u064e\u0641\u064f\u0648\u0631\u064f",
+      "title":"\u0627\u0644\u0652\u063a\u064e\u0641\u064f\u0648\u0631\u064f",
       "transliteration":"Al Ghafoor",
       "number":34,
       "found": "(2:173)(8:69)(16:110)(41:32)",
@@ -479,7 +479,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0634\u064e\u0651\u0643\u064f\u0648\u0631\u064f",
+      "title":"\u0627\u0644\u0634\u064e\u0651\u0643\u064f\u0648\u0631\u064f",
       "transliteration":"Ash Shakoor",
       "number":35,
       "found": "(35:30)(35:34)(42:23)(64:17)",
@@ -493,7 +493,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0639\u064e\u0644\u0650\u064a\u064f\u0651",
+      "title":"\u0627\u0644\u0652\u0639\u064e\u0644\u0650\u064a\u064f\u0651",
       "transliteration":"Al 'Aliyy",
       "number":36,
       "found": "(4:34)(31:30)(42:4)(42:51)",
@@ -507,7 +507,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0643\u064e\u0628\u0650\u064a\u0631\u064f",
+      "title":"\u0627\u0644\u0652\u0643\u064e\u0628\u0650\u064a\u0631\u064f",
       "transliteration":"Al Kabeer",
       "number":37,
       "found": "(13:9)(22:62)(31:30)",
@@ -521,7 +521,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u062d\u064e\u0641\u0650\u064a\u0638\u064f",
+      "title":"\u0627\u0644\u0652\u062d\u064e\u0641\u0650\u064a\u0638\u064f",
       "transliteration":"Al Hafeez",
       "number":38,
       "found": "(11:57)(34:21)(42:6)",
@@ -535,7 +535,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0645\u064f\u0642\u064a\u0650\u062a",
+      "title":"\u0627\u0644\u0645\u064f\u0642\u064a\u0650\u062a",
       "transliteration":"Al Muqeet",
       "number":39,
       "found": "(4:85)",
@@ -549,7 +549,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u062d\u0633\u0650\u064a\u0628\u064f",
+      "title":"\u0627\u0644\u0652\u062d\u0633\u0650\u064a\u0628\u064f",
       "transliteration":"Al Haseeb",
       "number":40,
       "found": "(4:6)(4:86)(33:39)",
@@ -563,7 +563,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u062c\u064e\u0644\u0650\u064a\u0644\u064f",
+      "title":"\u0627\u0644\u0652\u062c\u064e\u0644\u0650\u064a\u0644\u064f",
       "transliteration":"Al Jaleel",
       "number":41,
       "found": "(55:27)(39:14)(7:143)",
@@ -577,7 +577,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0643\u064e\u0631\u0650\u064a\u0645\u064f",
+      "title":"\u0627\u0644\u0652\u0643\u064e\u0631\u0650\u064a\u0645\u064f",
       "transliteration":"Al Kareem",
       "number":42,
       "found": "(27:40)(82:6)",
@@ -591,7 +591,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0631\u064e\u0651\u0642\u0650\u064a\u0628\u064f",
+      "title":"\u0627\u0644\u0631\u064e\u0651\u0642\u0650\u064a\u0628\u064f",
       "transliteration":"Ar Raqeeb",
       "number":43,
       "found": "(4:1)(5:117)",
@@ -605,7 +605,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064f\u062c\u0650\u064a\u0628\u064f",
+      "title":"\u0627\u0644\u0652\u0645\u064f\u062c\u0650\u064a\u0628\u064f",
       "transliteration":"Al Mujeeb ",
       "number":44,
       "found": "(11:61)",
@@ -619,13 +619,13 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0648\u064e\u0627\u0633\u0650\u0639\u064f",
+      "title":"\u0627\u0644\u0652\u0648\u064e\u0627\u0633\u0650\u0639\u064f",
       "transliteration":"Al Waasi'",
       "number":45,
       "found": "(2:268)(3:73)(5:54)",
       "en":{
         "meaning":"The All-Encompassing, the Boundless",
-        "desc": "This name in Arabic means: immensely wide, but to qualify God it is understood that He has filled every void and has contained all things in a way that only He knows."
+        "desc": "This title in Arabic means: immensely wide, but to qualify God it is understood that He has filled every void and has contained all things in a way that only He knows."
       },
       "fr":{
         "meaning":"Le Vaste",
@@ -633,7 +633,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u062d\u064e\u0643\u0650\u064a\u0645\u064f",
+      "title":"\u0627\u0644\u0652\u062d\u064e\u0643\u0650\u064a\u0645\u064f",
       "transliteration":"Al Hakeem",
       "number":46,
       "found": "(31:27)(46:2)(57:1)(66:2)",
@@ -647,13 +647,13 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0648\u064e\u062f\u064f\u0648\u062f\u064f",
+      "title":"\u0627\u0644\u0652\u0648\u064e\u062f\u064f\u0648\u062f\u064f",
       "transliteration":"Al Wudood",
       "number":47,
       "found": "(11:90)(85:14)",
       "en":{
         "meaning":"The Most Loving",
-        "desc": "This word in Arabic means: The one who draws near to his beloved by mercy, pity and beneficence, but when one reads this name in the \"Koran\", one feels each time different meanings which are difficult to translate into words}. We can try to translate it: The one who draws near to His servants out of pity although they move away from Him and do not glorify Him."
+        "desc": "This word in Arabic means: The one who draws near to his beloved by mercy, pity and beneficence, but when one reads this title in the \"Koran\", one feels each time different meanings which are difficult to translate into words}. We can try to translate it: The one who draws near to His servants out of pity although they move away from Him and do not glorify Him."
       },
       "fr":{
         "meaning":"Le Tout affectueux",
@@ -661,7 +661,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064e\u062c\u0650\u064a\u062f\u064f",
+      "title":"\u0627\u0644\u0652\u0645\u064e\u062c\u0650\u064a\u062f\u064f",
       "transliteration":"Al Majeed",
       "number":48,
       "found": "(11:73) ",
@@ -675,7 +675,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0628\u064e\u0627\u0639\u0650\u062b\u064f",
+      "title":"\u0627\u0644\u0652\u0628\u064e\u0627\u0639\u0650\u062b\u064f",
       "transliteration":"Al Baa'ith",
       "number":49,
       "found": "(22:7)",
@@ -689,7 +689,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0634\u064e\u0651\u0647\u0650\u064a\u062f\u064f",
+      "title":"\u0627\u0644\u0634\u064e\u0651\u0647\u0650\u064a\u062f\u064f",
       "transliteration":"Ash Shaheed",
       "number":50,
       "found": "(4:166)(22:17)(41:53)(48:28)",
@@ -703,7 +703,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651",
+      "title":"\u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651",
       "transliteration":"Al Haqq",
       "number":51,
       "found": "(6:62)(22:6)(23:116)(24:25)",
@@ -717,7 +717,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0648\u064e\u0643\u0650\u064a\u0644\u064f",
+      "title":"\u0627\u0644\u0652\u0648\u064e\u0643\u0650\u064a\u0644\u064f",
       "transliteration":"Al Wakeel",
       "number":52,
       "found": "(3:173)(4:171)(28:28)(73:9)",
@@ -731,7 +731,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0642\u064e\u0648\u0650\u064a\u064f\u0651",
+      "title":"\u0627\u0644\u0652\u0642\u064e\u0648\u0650\u064a\u064f\u0651",
       "transliteration":"Al Qawiyy",
       "number":53,
       "found": "(22:40)(22:74)(42:19)(57:25)",
@@ -745,7 +745,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064e\u062a\u0650\u064a\u0646\u064f",
+      "title":"\u0627\u0644\u0652\u0645\u064e\u062a\u0650\u064a\u0646\u064f",
       "transliteration":"Al Mateen",
       "number":54,
       "found": "(51:58)",
@@ -759,7 +759,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0648\u064e\u0644\u0650\u064a\u064f\u0651",
+      "title":"\u0627\u0644\u0652\u0648\u064e\u0644\u0650\u064a\u064f\u0651",
       "transliteration":"Al Waliyy",
       "number":55,
       "found": "(4:45)(7:196)(42:28)(45:19)",
@@ -773,7 +773,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u062d\u064e\u0645\u0650\u064a\u062f\u064f",
+      "title":"\u0627\u0644\u0652\u062d\u064e\u0645\u0650\u064a\u062f\u064f",
       "transliteration":"Al Hameed",
       "number":56,
       "found": "(14:8)(31:12)(31:26)(41:42)",
@@ -787,7 +787,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064f\u062d\u0652\u0635\u0650\u064a",
+      "title":"\u0627\u0644\u0652\u0645\u064f\u062d\u0652\u0635\u0650\u064a",
       "transliteration":"Al Muhsi",
       "number":57,
       "found": "(72:28)(78:29)(82:10-12)",
@@ -801,7 +801,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064f\u0628\u0652\u062f\u0650\u0626\u064f",
+      "title":"\u0627\u0644\u0652\u0645\u064f\u0628\u0652\u062f\u0650\u0626\u064f",
       "transliteration":"Al Mubdi",
       "number":58,
       "found": "(10:34)(27:64)(29:19)(85:13)",
@@ -815,7 +815,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064f\u0639\u0650\u064a\u062f\u064f",
+      "title":"\u0627\u0644\u0652\u0645\u064f\u0639\u0650\u064a\u062f\u064f",
       "transliteration":"Al Mu'eed",
       "number":59,
       "found": "(10:34)(27:64)(29:19)(85:13)",
@@ -829,7 +829,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064f\u062d\u0652\u064a\u0650\u064a",
+      "title":"\u0627\u0644\u0652\u0645\u064f\u062d\u0652\u064a\u0650\u064a",
       "transliteration":"Al Muhiy",
       "number":60,
       "found": "(7:158)(15:23)(30:50)(57:2)",
@@ -843,7 +843,7 @@
       }
     },
     {
-      "name":"\u0627\u064e\u0644\u0652\u0645\u064f\u0645\u0650\u064a\u062a\u064f",
+      "title":"\u0627\u064e\u0644\u0652\u0645\u064f\u0645\u0650\u064a\u062a\u064f",
       "transliteration":"Al Mumeet",
       "number":61,
       "found": "(3:156)(7:158)(15:23)(57:2)",
@@ -857,7 +857,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u062d\u064e\u064a\u064f\u0651",
+      "title":"\u0627\u0644\u0652\u062d\u064e\u064a\u064f\u0651",
       "transliteration":"Al Haiyy",
       "number":62,
       "found": "(2:255)(3:2)(25:58)(40:65)",
@@ -871,7 +871,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0642\u064e\u064a\u064f\u0651\u0648\u0645\u064f",
+      "title":"\u0627\u0644\u0652\u0642\u064e\u064a\u064f\u0651\u0648\u0645\u064f",
       "transliteration":"Al Qayyoom",
       "number":63,
       "found": "(2:255)(3:2)(20:111)",
@@ -885,7 +885,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0648\u064e\u0627\u062c\u0650\u062f\u064f",
+      "title":"\u0627\u0644\u0652\u0648\u064e\u0627\u062c\u0650\u062f\u064f",
       "transliteration":"Al Waajid",
       "number":64,
       "found": "(38:44)",
@@ -899,7 +899,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064e\u0627\u062c\u0650\u062f\u064f",
+      "title":"\u0627\u0644\u0652\u0645\u064e\u0627\u062c\u0650\u062f\u064f",
       "transliteration":"Al Maajid",
       "number":65,
       "found": "(11:73)",
@@ -913,7 +913,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0648\u0627\u062d\u0650\u062f\u064f",
+      "title":"\u0627\u0644\u0652\u0648\u0627\u062d\u0650\u062f\u064f",
       "transliteration":"Al Waahid",
       "number":66,
       "found": "(2:163)(5:73)(9:31)(18:110)",
@@ -927,7 +927,7 @@
       }
     },
     {
-      "name":"\u0627\u064e\u0644\u0627\u064e\u062d\u064e\u062f\u064f",
+      "title":"\u0627\u064e\u0644\u0627\u064e\u062d\u064e\u062f\u064f",
       "transliteration":"Al Ahad",
       "number":67,
       "found": "(112:1)",
@@ -941,7 +941,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0635\u064e\u0651\u0645\u064e\u062f\u064f",
+      "title":"\u0627\u0644\u0635\u064e\u0651\u0645\u064e\u062f\u064f",
       "transliteration":"As Samad",
       "number":68,
       "found": "(112:2)",
@@ -955,7 +955,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0642\u064e\u0627\u062f\u0650\u0631\u064f",
+      "title":"\u0627\u0644\u0652\u0642\u064e\u0627\u062f\u0650\u0631\u064f",
       "transliteration":"Al Qaadir",
       "number":69,
       "found": "(6:65)(36:81)(46:33)(75:40)",
@@ -969,7 +969,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064f\u0642\u0652\u062a\u064e\u062f\u0650\u0631\u064f",
+      "title":"\u0627\u0644\u0652\u0645\u064f\u0642\u0652\u062a\u064e\u062f\u0650\u0631\u064f",
       "transliteration":"Al Muqtadir",
       "number":70,
       "found": "(18:45)(54:42)(54:55)",
@@ -983,7 +983,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064f\u0642\u064e\u062f\u0650\u0651\u0645\u064f",
+      "title":"\u0627\u0644\u0652\u0645\u064f\u0642\u064e\u062f\u0650\u0651\u0645\u064f",
       "transliteration":"Al Muqaddim",
       "number":71,
       "found": "(16:61)(17:34)",
@@ -997,7 +997,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064f\u0624\u064e\u062e\u0650\u0651\u0631\u064f",
+      "title":"\u0627\u0644\u0652\u0645\u064f\u0624\u064e\u062e\u0650\u0651\u0631\u064f",
       "transliteration":"Al Mu\u2019akhir",
       "number":72,
       "found": "(71:4)",
@@ -1011,7 +1011,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0623\u0648\u064e\u0651\u0644\u064f",
+      "title":"\u0627\u0644\u0623\u0648\u064e\u0651\u0644\u064f",
       "transliteration":"Al Awwal",
       "number":73,
       "found": "(57:3)",
@@ -1025,7 +1025,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0622\u062e\u0650\u0631\u064f",
+      "title":"\u0627\u0644\u0622\u062e\u0650\u0631\u064f",
       "transliteration":"Al Aakhir",
       "number":74,
       "found": "(57:3)",
@@ -1039,7 +1039,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0638\u064e\u0651\u0627\u0647\u0650\u0631\u064f",
+      "title":"\u0627\u0644\u0638\u064e\u0651\u0627\u0647\u0650\u0631\u064f",
       "transliteration":"Az Zaahir",
       "number":75,
       "found": "(57:3)",
@@ -1053,7 +1053,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0628\u064e\u0627\u0637\u0650\u0646\u064f",
+      "title":"\u0627\u0644\u0652\u0628\u064e\u0627\u0637\u0650\u0646\u064f",
       "transliteration":"Al Baatin",
       "number":76,
       "found": "(57:3)",
@@ -1067,7 +1067,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0648\u064e\u0627\u0644\u0650\u064a",
+      "title":"\u0627\u0644\u0652\u0648\u064e\u0627\u0644\u0650\u064a",
       "transliteration":"Al Waali",
       "number":77,
       "found": "(13:11)(22:7)",
@@ -1081,7 +1081,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064f\u062a\u064e\u0639\u064e\u0627\u0644\u0650\u064a",
+      "title":"\u0627\u0644\u0652\u0645\u064f\u062a\u064e\u0639\u064e\u0627\u0644\u0650\u064a",
       "transliteration":"Al Muta\u2019ali",
       "number":78,
       "found": "(13:9)",
@@ -1095,7 +1095,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0628\u064e\u0631\u064f\u0651",
+      "title":"\u0627\u0644\u0652\u0628\u064e\u0631\u064f\u0651",
       "transliteration":"Al Barr",
       "number":79,
       "found": "(52:28)",
@@ -1109,7 +1109,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u062a\u064e\u0651\u0648\u064e\u0627\u0628\u064f",
+      "title":"\u0627\u0644\u062a\u064e\u0651\u0648\u064e\u0627\u0628\u064f",
       "transliteration":"At Tawwaab",
       "number":80,
       "found": "(2:128)(4:64)(49:12)(110:3)",
@@ -1123,7 +1123,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064f\u0646\u0652\u062a\u064e\u0642\u0650\u0645\u064f",
+      "title":"\u0627\u0644\u0652\u0645\u064f\u0646\u0652\u062a\u064e\u0642\u0650\u0645\u064f",
       "transliteration":"Al Muntaqim",
       "number":81,
       "found": "(32:22)(43:41)(44:16)",
@@ -1137,7 +1137,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0639\u064e\u0641\u064f\u0648\u064f\u0651",
+      "title":"\u0627\u0644\u0639\u064e\u0641\u064f\u0648\u064f\u0651",
       "transliteration":"Al Afuww",
       "number":82,
       "found": "(4:99)(4:149)(22:60) ",
@@ -1151,7 +1151,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0631\u064e\u0651\u0624\u064f\u0648\u0641\u064f",
+      "title":"\u0627\u0644\u0631\u064e\u0651\u0624\u064f\u0648\u0641\u064f",
       "transliteration":"Ar Ra\u2019oof",
       "number":83,
       "found": "(3:30)(9:117)(57:9)(59:10)",
@@ -1165,7 +1165,7 @@
       }
     },
     {
-      "name":"\u0645\u064e\u0627\u0644\u0650\u0643\u064f \u0627\u0644\u0652\u0645\u064f\u0644\u0652\u0643\u0650",
+      "title":"\u0645\u064e\u0627\u0644\u0650\u0643\u064f \u0627\u0644\u0652\u0645\u064f\u0644\u0652\u0643\u0650",
       "transliteration":"Maalik Ul Mulk",
       "number":84,
       "found": "(3:26)",
@@ -1179,7 +1179,7 @@
       }
     },
     {
-      "name":"\u0630\u064f\u0648\u0627\u0644\u0652\u062c\u064e\u0644\u0627\u064e\u0644\u0650 \u0648\u064e\u0627\u0644\u0625\u0643\u0652\u0631\u064e\u0627\u0645\u0650",
+      "title":"\u0630\u064f\u0648\u0627\u0644\u0652\u062c\u064e\u0644\u0627\u064e\u0644\u0650 \u0648\u064e\u0627\u0644\u0625\u0643\u0652\u0631\u064e\u0627\u0645\u0650",
       "transliteration":"Dhu Al Jalaali Wa Al Ikraam",
       "number":85,
       "found": "(55:27)(55:78)",
@@ -1193,7 +1193,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064f\u0642\u0652\u0633\u0650\u0637\u064f",
+      "title":"\u0627\u0644\u0652\u0645\u064f\u0642\u0652\u0633\u0650\u0637\u064f",
       "transliteration":"Al Muqsit",
       "number":86,
       "found": "(7:29)(3:18)",
@@ -1207,7 +1207,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u062c\u064e\u0627\u0645\u0650\u0639\u064f",
+      "title":"\u0627\u0644\u0652\u062c\u064e\u0627\u0645\u0650\u0639\u064f",
       "transliteration":"Al Jaami'",
       "number":87,
       "found": "(3:9)",
@@ -1221,7 +1221,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u063a\u064e\u0646\u0650\u064a\u064f\u0651",
+      "title":"\u0627\u0644\u0652\u063a\u064e\u0646\u0650\u064a\u064f\u0651",
       "transliteration":"Al Ghaniyy",
       "number":88,
       "found": "(3:97)(39:7)(47:38)(57:24)",
@@ -1235,7 +1235,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0645\u064f\u063a\u0652\u0646\u0650\u064a",
+      "title":"\u0627\u0644\u0652\u0645\u064f\u063a\u0652\u0646\u0650\u064a",
       "transliteration":"Al Mughi",
       "number":89,
       "found": "(9:28)",
@@ -1249,7 +1249,7 @@
       }
     },
     {
-      "name":"\u0627\u064e\u0644\u0652\u0645\u064e\u0627\u0646\u0650\u0639\u064f",
+      "title":"\u0627\u064e\u0644\u0652\u0645\u064e\u0627\u0646\u0650\u0639\u064f",
       "transliteration":"Al Maani'",
       "number":90,
       "found": "(67:21)",
@@ -1263,7 +1263,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0636\u064e\u0651\u0627\u0631\u064e\u0651",
+      "title":"\u0627\u0644\u0636\u064e\u0651\u0627\u0631\u064e\u0651",
       "transliteration":"Ad Daaarr",
       "number":91,
       "found": "(6:17)",
@@ -1277,7 +1277,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0646\u064e\u0651\u0627\u0641\u0650\u0639\u064f",
+      "title":"\u0627\u0644\u0646\u064e\u0651\u0627\u0641\u0650\u0639\u064f",
       "transliteration":"An Naafi\u2019",
       "number":92,
       "found": "(30:37)",
@@ -1291,7 +1291,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0646\u064f\u0651\u0648\u0631\u064f",
+      "title":"\u0627\u0644\u0646\u064f\u0651\u0648\u0631\u064f",
       "transliteration":"An Noor",
       "number":93,
       "found": "(24:35)",
@@ -1305,7 +1305,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0647\u064e\u0627\u062f\u0650\u064a",
+      "title":"\u0627\u0644\u0652\u0647\u064e\u0627\u062f\u0650\u064a",
       "transliteration":"Al Haadi",
       "number":94,
       "found": "(25:31)",
@@ -1319,7 +1319,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0628\u064e\u062f\u0650\u064a\u0639\u064f",
+      "title":"\u0627\u0644\u0652\u0628\u064e\u062f\u0650\u064a\u0639\u064f",
       "transliteration":"Al Badi'",
       "number":95,
       "found": "(2:117)(6:101)",
@@ -1333,7 +1333,7 @@
       }
     },
     {
-      "name":"\u0627\u064e\u0644\u0652\u0628\u064e\u0627\u0642\u0650\u064a",
+      "title":"\u0627\u064e\u0644\u0652\u0628\u064e\u0627\u0642\u0650\u064a",
       "transliteration":"Al Baaqi",
       "number":96,
       "found": "(55:27)",
@@ -1347,7 +1347,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0652\u0648\u064e\u0627\u0631\u0650\u062b\u064f",
+      "title":"\u0627\u0644\u0652\u0648\u064e\u0627\u0631\u0650\u062b\u064f",
       "transliteration":"Al Waarith",
       "number":97,
       "found": "(15:23)",
@@ -1361,7 +1361,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0631\u064e\u0651\u0634\u0650\u064a\u062f\u064f",
+      "title":"\u0627\u0644\u0631\u064e\u0651\u0634\u0650\u064a\u062f\u064f",
       "transliteration":"Ar Rasheed",
       "number":98,
       "found": "(2:256)",
@@ -1375,7 +1375,7 @@
       }
     },
     {
-      "name":"\u0627\u0644\u0635\u064e\u0651\u0628\u064f\u0648\u0631\u064f",
+      "title":"\u0627\u0644\u0635\u064e\u0651\u0628\u064f\u0648\u0631\u064f",
       "transliteration":"As Saboor",
       "number":99,
       "found": "(2:153)(3:200)(103:3)",

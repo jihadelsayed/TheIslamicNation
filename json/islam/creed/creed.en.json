@@ -3,32 +3,32 @@
   "status": "OK",
   "data": [
     {
-      "title": "Allah",
+      "name": "Allah",
       "routerLink": "theCreator",
       "description": "Muslims believe in one God, who is the creator of the universe and all that exists within it."
     },
     {
-      "title": "Angels",
+      "name": "Angels",
       "routerLink": "angels",
       "description": "Muslims believe in the existence of angels, who are created beings made of light and who carry out God's commands."
     },
     {
-      "title": "prophets",
+      "name": "prophets",
       "routerLink": "prophets",
       "description": "Muslims believe that God sent messengers and prophets to guide humanity throughout history, including Adam, Noah, Abraham, Moses, Jesus, and Muhammad, peace be upon them all."
     },
     {
-      "title": "Holy Scriptures",
+      "name": "Holy Scriptures",
       "routerLink": "religionsBooks",
       "description": "Muslims believe in the divine origin of the holy scriptures, including the Quran, the Torah, the Gospel, and the Psalms."
     },
     {
-      "title": "Day of judgment",
+      "name": "Day of judgment",
       "routerLink": "judgmentDay",
       "description": "Muslims believe in the concept of an afterlife and in the Day of Judgment, when all souls will be held accountable for their actions."
     },
     {
-      "title": "Divine Destiny",
+      "name": "Divine Destiny",
       "routerLink": "destiny",
       "description": "Muslims believe in the concept of divine destiny, or qadr, which holds that God has predetermined everything that will happen in the universe."
     }

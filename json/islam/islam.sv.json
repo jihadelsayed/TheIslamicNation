@@ -3,7 +3,7 @@
   "status": "OK",
   "data": [
       {
-        "title":"Islamic_law" ,
+        "name":"Islamic_law" ,
         "routerLink":"Islamic_law" ,
         "description": "The principles and guidelines for Muslim life, covering areas such as worship, ethics, marriage and family, business, and criminal justice.",
         "topics": [
@@ -15,7 +15,7 @@
         ]
       },
       {
-        "title": "Islamic_art_and_architecture",
+        "name": "Islamic_art_and_architecture",
         "routerLink": "Islamic_art_and_architecture",
         "description": "The various styles and forms of art and architecture that have developed in the Islamic world, including calligraphy, geometry, pottery, and mosque design.",
         "topics": [
@@ -26,7 +26,7 @@
         ]
       },
        {
-        "title": "Islamic_finance_and_economics",
+        "name": "Islamic_finance_and_economics",
         "routerLink": "Islamic_finance_and_economics",
         "description": "The principles and practices of financial and economic activities that are consistent with Islamic teachings, such as the prohibition of interest and the promotion of social welfare.",
         "topics": [
@@ -37,7 +37,7 @@
         ]
       },
       {
-        "title": "Islamic_science_and_philosophy",
+        "name": "Islamic_science_and_philosophy",
         "routerLink": "Islamic_science_and_philosophy",
         "description": "The contributions of Muslim scholars in the fields of science, medicine, mathematics, astronomy, and philosophy, as well as the relationship between science and religion in Islamic thought.",
         "topics": [
@@ -49,7 +49,7 @@
         ]
       },
      {
-      "title":  "Islamic_education",
+      "name":  "Islamic_education",
       "routerLink":  "Islamic_education",
       "description": "The methods and institutions of learning in the Islamic tradition, from Quranic schools to universities, and the role of education in shaping Muslim culture and society.",
         "topics": [
@@ -59,7 +59,7 @@
         ]
       },
       {
-        "title": "Islamic_spirituality_and_mysticism",
+        "name": "Islamic_spirituality_and_mysticism",
         "routerLink": "Islamic_spirituality_and_mysticism",
         "description": "The various practices and teachings that aim to cultivate a closer relationship with Allah and a deeper understanding of the Quran and the Prophetic traditions, as well as the role of Sufism in Islamic history and culture.",
         "topics": [
