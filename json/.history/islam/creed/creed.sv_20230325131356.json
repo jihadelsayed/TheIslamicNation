@@ -1,0 +1,36 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "name": "Allah",
+      "routerLink": "Skaparen",
+      "description": "Muslimer tror på en Gud, som är skaparen av universum och allt som finns inom det."
+    },
+    {
+      "name": "Änglar",
+      "routerLink": "änglar",
+      "description": "Muslimer tror på att det finns änglar, som är skapade varelser gjorda av ljus och som utför Guds befallningar."
+    },
+    {
+      "name": "profeter",
+      "routerLink": "profeter",
+      "description": "Muslimer tror att Gud sände budbärare och profeter för att vägleda mänskligheten genom historien, inklusive Adam, Noa, Abraham, Mose, Jesus och Muhammed, frid vare med dem alla."
+    },
+    {
+      "name": "Heliga skrifter",
+      "routerLink": "religionsböcker",
+      "description": "Muslimer tror på de heliga skrifternas gudomliga ursprung, inklusive Koranen, Toran, evangeliet och psalmerna."
+    },
+    {
+      "name": "Domens dag",
+      "routerLink": "domsdag",
+      "description": "Muslimer tror på konceptet med ett liv efter detta och på Domedagen, då alla själar kommer att hållas ansvariga för sina handlingar."
+    },
+    {
+      "name": "Gudomligt öde",
+      "routerLink": "öde",
+      "description": "Muslimer tror på begreppet gudomligt öde, eller qadr, som menar att Gud har förutbestämt allt som kommer att hända i universum."
+    }
+  ]
+}

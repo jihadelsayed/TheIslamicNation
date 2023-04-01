@@ -1,6 +1,11 @@
 {
   "code": 200,
-  "status": "OK",
+    "status": "OK",
+  "introduction": {
+    "name": "Introduction",
+    "examples": "quran",
+    "description": "ذُكر في القرآن باسمه صراحة، وبحسب ابن كثير فإنه هو الملك الموكل بالمطر والنبات."
+  },
   "data": [
     {
       "Mandated Judgment": {

@@ -1,0 +1,52 @@
+{
+  "code": 200,
+  "status": "OK",
+  "introduction": {
+    "name": "Introduction",
+    "religion": "Judaism",
+    "revealed_to": "Prophet Moses (peace be upon him)",
+    "description": "ذُكر في القرآن باسمه صراحة، وبحسب ابن كثير فإنه هو الملك الموكل بالمطر والنبات."
+  },
+  "data": [
+    {
+      "id": 1,
+      "routerLink": "/",
+      "name": "The Torah",
+      "religion": "Judaism",
+      "revealed_to": "Prophet Moses (peace be upon him)",
+      "year_written": "Over 3,000 years ago"
+    },
+    {
+      "id": 1,
+      "routerLink": "/",
+      "name": "The Zabur",
+      "religion": "Judaism and Christianity",
+      "revealed_to": "Prophet David (peace be upon him)",
+      "year_written": "Unknown"
+    },
+    {
+      "id": 1,
+      "routerLink": "/",
+      "name": "The Injil",
+      "religion": "Christianity",
+      "revealed_to": "Prophet Jesus (peace be upon him)",
+      "year_written": "Between 50 and 100 CE"
+    },
+    {
+      "id": 1,
+      "routerLink": "/",
+      "name": "The Vedas",
+      "religion": "Hinduism",
+      "revealed_to": "Unknown",
+      "year_written": "Between 1500 BCE and 500 BCE"
+    },
+    {
+      "id": 1,
+      "routerLink": "/",
+      "name": "The Avesta",
+      "religion": "Zoroastrianism",
+      "revealed_to": "Unknown",
+      "year_written": "Between 1200 BCE and 900 BCE"
+    }
+  ]
+}

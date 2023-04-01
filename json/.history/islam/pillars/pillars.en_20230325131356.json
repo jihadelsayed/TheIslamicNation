@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "name": "Testimony",
+      "routerLink": "testimony",
+      "Description": "Declaration of faith in the oneness of Allah and the prophethood of Muhammad"
+    },
+    {
+      "name": "Prayers",
+      "routerLink": "prayers",
+      "Description": "Performing five daily prayers at specific times of the day"
+    },
+    {
+      "name": "fasting",
+      "routerLink": "Fasting",
+      "Description": "Fasting during the month of Ramadan from dawn until sunset"
+    },
+    {
+      "name": "Charity",
+      "routerLink": "charity",
+      "Description": "Giving a portion of one's wealth to those in need"
+    },
+    {
+      "name": "Pilgrimage",
+      "routerLink": "pilgrimage",
+      "Description": "Making a pilgrimage to the holy city of Mecca at least once in a lifetime"
+    }
+  ]
+}

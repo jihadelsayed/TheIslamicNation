@@ -1,0 +1,48 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "name": "أصول الفقه",
+     "routerLink": "/",
+      "description": "The sources of Islamic law. This subcategory of jurisprudence deals with the principles and methodologies used in deriving and interpreting Islamic law. It includes the study of the Quran, the Hadith, the consensus of Islamic scholars, and analogical reasoning.",
+      "category": "Jurisprudence",
+      "topic": "Sources of Islamic Law"
+    },
+    {
+      "name": "الفقه الاكبر",
+     "routerLink": "/",
+      "description": "Islamic legal theory. This subcategory of jurisprudence deals with the fundamental principles of Islamic law and theology. It includes the study of concepts such as belief in Allah, prophethood, and the afterlife, as well as the methodology of interpreting and applying Islamic law.",
+      "category": "Jurisprudence",
+      "topic": "Islamic Legal Theory"
+    },
+    {
+      "name": "فقه المعاملات",
+     "routerLink": "/",
+      "description": "Islamic commercial law. This subcategory of jurisprudence deals with the rules and regulations related to financial transactions and business dealings. It includes the study of contracts, partnerships, loans, and other commercial transactions.",
+      "category": "Jurisprudence",
+      "topic": "Islamic Commercial Law"
+    },
+    {
+      "name": "فقه الاسرة ",
+     "routerLink": "/",
+      "description": "Islamic family law related to marriage. This subcategory of jurisprudence deals with the rules and regulations related to marriage, divorce, and other aspects of family life. It includes the study of the rights and responsibilities of spouses, as well as the requirements for a valid marriage contract.",
+      "category": "Jurisprudence",
+      "topic": "Islamic Family Law - Marriage"
+    },
+    {
+      "name": "فقه الولاية",
+     "routerLink": "/",
+      "description": "Islamic family law related to guardianship. This subcategory of jurisprudence deals with the rules and regulations related to guardianship and custody of children, as well as inheritance and other aspects of family law.",
+      "category": "Jurisprudence",
+      "topic": "Islamic Family Law - Guardianship"
+    },
+    {
+      "name": "فقه الجباية",
+     "routerLink": "/",
+      "description": "Islamic criminal law. This subcategory of jurisprudence deals with the rules and regulations related to crime and punishment in Islam. It includes the study of the punishments for crimes such as theft, adultery, and murder, as well as the procedures for determining guilt and administering justice.",
+      "category": "Jurisprudence",
+      "topic": "Islamic Criminal Law"
+    }
+  ]
+}

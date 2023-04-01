@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "name": "Vittnesbörd",
+      "routerLink": "testimony",
+      "Description": "Förklaring om tro på Allahs enhet och Muhammeds profetskap"
+    },
+    {
+      "name": "Böner",
+      "routerLink": "prayers",
+      "Description": "Utför fem dagliga böner vid specifika tider på dagen"
+    },
+    {
+      "name": "fasta",
+      "routerLink": "Fasting",
+      "Description": "Fasta under månaden Ramadan från gryning till solnedgång"
+    },
+    {
+      "name": "Välgörenhet",
+      "routerLink": "charity",
+      "Description": "Att ge en del av sin förmögenhet till de behövande"
+    },
+    {
+      "name": "Pilgrimsfärd",
+      "routerLink": "pilgrimage",
+      "Description": "Pilgrimsfärd till den heliga staden Mecka minst en gång i livet"
+    }
+  ]
+}
