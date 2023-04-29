@@ -1,12 +1,12 @@
 [submodule "TheIslamicNation_Backend"]
 	path = TheIslamicNation_Backend
-	url = https://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@github.com/davidpales1/TheIslamicNation_Backend
+	url = https://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@github.com/jihadelsayed/TheIslamicNation_Backend
 [submodule "TheIslamicNation_Frontend"]
 	path = TheIslamicNation_Frontend
-	url = https://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@github.com/davidpales1/TheIslamicNation_Frontend
+	url = https://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@github.com/jihadelsayed/TheIslamicNation_Frontend
 [submodule "TheIslamicNation_Mobile"]
 	path = TheIslamicNation_Mobile
-	url = https://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@github.com/davidpales1/TheIslamicNation_Mobile
+	url = https://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@github.com/jihadelsayed/TheIslamicNation_Mobile
 [submodule "TheIslamicNation_Athan"]
 	path = TheIslamicNation_Athan
-	url = https://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@github.com/davidpales1/TheIslamicNation_Athan
+	url = https://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@github.com/jihadelsayed/TheIslamicNation_Athan
