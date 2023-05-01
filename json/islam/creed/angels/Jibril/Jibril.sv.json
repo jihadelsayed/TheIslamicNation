@@ -2,10 +2,10 @@
   "code": 200,
     "status": "OK",
     "introduction": {
-      "name": "Introduction",
-      "examples": "quran",
-      "description": "ذُكر في القرآن باسمه صراحة، وبحسب ابن كثير فإنه هو الملك الموكل بالمطر والنبات."
-    },
+      "name": "Jibril",
+      "example": "Muslims believe that Jibril is the angel tasked with delivering divine messages to the prophets.",
+      "description": "Jibril is the angel who plays a significant role in Islam and is considered one of the most prominent and important angels."
+   },
   "data": [
     {
       "id": 1,
