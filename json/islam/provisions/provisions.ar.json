@@ -2,15 +2,15 @@
   "code": 200,
     "status": "OK",
   "introduction": {
-    "name": "Introduction",
-    "examples": "quran",
+    "name": "الأحكام الشرعية",
+    "examples": "",
     "description": "ذُكر في القرآن باسمه صراحة، وبحسب ابن كثير فإنه هو الملك الموكل بالمطر والنبات."
   },
   "data": [
      {
-      "name": "Haram",
+      "name": "الحرام",
      "routerLink": "/",
-      "description": "Actions that are strictly forbidden in Islam and are punishable by Allah. These actions are considered sinful and a Muslim should refrain from committing them.",
+      "description": "الأفعال المحرمة في الإسلام التي يعاقب عليها الله تعالى ، وهذه الأفعال تعتبر معصية ويجب على المسلم أن يمتنع عن ارتكابها",
       "examples": [
         "Consuming alcohol",
         "Gambling",
@@ -18,9 +18,9 @@
       ]
     },
     {
-      "name": "Makruh",
+      "name": "المكروه",
      "routerLink": "/",
-      "description": "Actions that are discouraged in Islam but not strictly forbidden. Muslims are advised to avoid these actions as they are considered disliked by Allah.",
+      "description": "الأفعال التي تثبط في الإسلام ولكنها ليست ممنوعة بشكل صارم. وينصح المسلمون بتجنب هذه الأعمال لأنها تعتبر مكروهة عند الله",
       "examples": [
         "Eating excessively",
         "Wasting resources",
@@ -28,9 +28,9 @@
       ]
     },
     {
-      "name": "Mubah",
+      "name": "المباح",
      "routerLink": "/",
-      "description": "Actions that are permissible in Islam and are neither encouraged nor discouraged. Muslims are free to choose whether to engage in these actions or not.",
+      "description": "الأفعال المسموح بها في الإسلام والتي لا يتم تشجيعها ولا تثبيطها. للمسلمين حرية اختيار الانخراط في هذه الأعمال أم لا",
       "examples": [
         "Wearing non-religious clothing",
         "Eating non-harmful food",
@@ -38,9 +38,9 @@
       ]
     },
     {
-      "name": "Mandub",
+      "name": "المندوب",
      "routerLink": "/",
-      "description": "Actions that are encouraged in Islam but not strictly required. Muslims are rewarded for performing these actions.",
+      "description": "الأفعال التي يتم تشجيعها في الإسلام ولكنها ليست مطلوبة بشكل صارم. يكافأ المسلمون على القيام بهذه الأعمال.",
       "examples": [
         "Praying extra prayers",
         "Visiting the sick",
@@ -48,9 +48,9 @@
       ]
     },
     {
-      "name": "Wajib",
+      "name": "الواجب",
      "routerLink": "/",
-      "description": "Actions that are mandatory in Islam and Muslims are required to perform them. Neglecting these actions is considered sinful and Muslims may be punished for failing to perform them.",
+      "description": "الأعمال الواجبة في الإسلام والمسلمين واجبة القيام بها ، والتنازل عن هذه الأعمال يعتبر إثمًا ، وقد يعاقب المسلمون على عدم القيام بها",
       "examples": [
         "Praying five times a day",
         "Fasting during Ramadan",

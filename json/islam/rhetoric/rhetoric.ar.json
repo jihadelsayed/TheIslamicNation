@@ -8,39 +8,39 @@
   },
   "data": [
     {
-      "name": "Balagha",
+      "name": "البلاغة",
      "routerLink": "/",
-      "description": "The study of the effective use of language, including the use of metaphors, similes, and other figures of speech."
+      "description": "دراسة الاستخدام الفعال للغة ، بما في ذلك استخدام الاستعارات والتشبيهات وأشكال الكلام الأخرى"
     },
     {
-      "name": "Khataba",
+      "name": "الخطابة",
      "routerLink": "/",
-      "description": "The study of public speaking and effective delivery of speeches, including the use of tone, rhythm, and other techniques to engage an audience."
+      "description": "دراسة الخطابة والإلقاء الفعال للكلمات ، بما في ذلك استخدام النبرة والإيقاع والتقنيات الأخرى لإشراك الجمهور."
     },
     {
-      "name": "Bayan",
+      "name": "البيان",
      "routerLink": "/",
-      "description": "The study of how language can be used to convey meaning and express ideas, particularly in a persuasive or influential context."
+      "description": "دراسة كيفية استخدام اللغة لنقل المعنى والتعبير عن الأفكار ، لا سيما في سياق مقنع أو مؤثر."
     },
     {
-      "name": "I'jaz",
+      "name": "الإعجاز",
      "routerLink": "/",
-      "description": "The study of the unique features of the Quranic Arabic language and the ways in which it is considered to be unparalleled in its eloquence and effectiveness."
+      "description": "دراسة السمات الفريدة للغة العربية القرآنية والطرق التي لا مثيل لها في فصاحتها وفعاليتها"
     },
     {
-      "name": "Adab",
+      "name": "الأدب",
      "routerLink": "/",
-      "description": "The study of Arabic literature and the use of language in literary contexts, including the study of poetry, prose, and other literary forms."
+      "description": "دراسة الأدب العربي واستخدام اللغة في السياقات الأدبية ، بما في ذلك دراسة الشعر والنثر والأشكال الأدبية الأخرى"
     },
     {
-      "name": "Munazara",
+      "name": "المناظرة",
      "routerLink": "/",
-      "description": "The study of argumentation and debate in the Arabic language, including the use of logic, evidence, and rhetorical techniques to persuade an audience."
+      "description": "دراسة الجدل والنقاش في اللغة العربية ، بما في ذلك استخدام المنطق والأدلة والأساليب البلاغية لإقناع الجمهور."
     },
     {
-      "name": "Hadith",
+      "name": "الحديث",
      "routerLink": "/",
-      "description": "The study of the prophetic tradition and the use of language in the context of Islamic teachings and practices, including the study of the sayings and actions of the Prophet Muhammad."
+      "description": "دراسة الحديث النبوي واستخدام اللغة في سياق التعاليم والممارسات الإسلامية ، بما في ذلك دراسة أقوال وأفعال النبي محمد"
     }
   ]
 }
