@@ -1,0 +1,1751 @@
+[
+  {
+    "Code": "Food Colors",
+    "list": [
+      {
+        "Code": "E100",
+        "Name": "Curcumin/Turmeric",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E101",
+        "Name": "Riboflavin (Vitamin B2)",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E102",
+        "Name": "Tartazine",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E103",
+        "Name": "Chrysoine Resocinol",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E104",
+        "Name": "Quinoline Yellow",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E105",
+        "Name": "Fast Yellow AB",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E107",
+        "Name": "Yellow 2G",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E110",
+        "Name": "Sunset Yellow FCF / Orange Yellow S",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E120",
+        "Name": "Cochineal / Carminic Acid",
+        "Status": "HARAM"
+      },
+      {
+        "Code": "E122",
+        "Name": "Carmoisine / Azorubine",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E123",
+        "Name": "Amaranth Dye",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E124",
+        "Name": "Ponceau 4R / Cochineal Red A",
+        "Status": "HARAM"
+      },
+      {
+        "Code": "E127",
+        "Name": "Erythrosine BS",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E128",
+        "Name": "Red 2G",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E129",
+        "Name": "Allura Red AC",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E131",
+        "Name": "Patent Blue V",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E132",
+        "Name": "Indigo Carmine / Idigotine",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E133",
+        "Name": "Brilliant Blue FCF",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E140",
+        "Name": "Chlorophyll",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E150a",
+        "Name": "Caramel Color/with chemicals",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E150b",
+        "Name": "Caramel Color/with chemicals",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E150c",
+        "Name": "Caramel Color/with chemicals",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E150d",
+        "Name": "Caramel Color/with chemicals",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E151",
+        "Name": "Black PN / Brilliant Black BN",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E153",
+        "Name": "Carbon Black / Vegetable Carbon (Charcoal)",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E154",
+        "Name": "Brown FK",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E155",
+        "Name": "Brown HT",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E160a",
+        "Name": "Alpha, Beta, Gamma Carotene",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E160b",
+        "Name": "Annatto, Bixin, Norbixin",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E160c",
+        "Name": "Capsanthin / Capsorbin",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E160d",
+        "Name": "Lycopene",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E160e",
+        "Name": "Beta-apo-8-carotenal",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E160f",
+        "Name": "Ethyl ester of Beta-apo-8-cartonoic acid",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E161a",
+        "Name": "Flavoxanthin",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E161b",
+        "Name": "Lutein",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E161c",
+        "Name": "Cryptoxanthin",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E161d",
+        "Name": "Rubixanthin",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E161e",
+        "Name": "Violaxanthin",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E161f",
+        "Name": "Rhodoxanthin",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E161g",
+        "Name": "Canthaxanthin",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E162",
+        "Name": "Beetroot Red / Betanin",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E163",
+        "Name": "Anthocyanins",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E170",
+        "Name": "Calcium Carbonate (Chalk)",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E171",
+        "Name": "Titanium Dioxide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E172",
+        "Name": "Iron Oxides and Iron Hydroxides",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E173",
+        "Name": "Aluminium",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E174",
+        "Name": "Silver",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E175",
+        "Name": "Gold",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E180",
+        "Name": "Pigment Rubine / Lithol Rubine BK",
+        "Status": "MUSHBOOH"
+      }
+    ]
+  },
+  {
+    "Code": "Preservatives",
+    "list": [
+      {
+        "Code": "E200",
+        "Name": "Sorbic Acid",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E201",
+        "Name": "Soduim Sorbate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E202",
+        "Name": "Potassium Sorbate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E203",
+        "Name": "Calcium Sorbate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E203",
+        "Name": "Calcium Sorbate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E210",
+        "Name": "Benzoic Acid",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E211",
+        "Name": "Sodium Benzoate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E212",
+        "Name": "Potassium Benzoate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E213",
+        "Name": "Calcium Benzoate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E214",
+        "Name": "Ethyl 4-hydroxybenzoate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E215",
+        "Name": "Ethyl 4-hydroxybenzoate, Sodium Salt",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E216",
+        "Name": "Propyl 4-hydroxybenzoate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E217",
+        "Name": "Propyl 4-hydroxybenzoate, Sodium Salt",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E218",
+        "Name": "Methyl 4-hydroxybenzoate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E219",
+        "Name": "Methyl 4-hydroxybenzoate, Sodium Salt",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E220",
+        "Name": "Sulphur Dioxide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E221",
+        "Name": "Sodium Sulphite",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E222",
+        "Name": "Sodium Hydrogen Sulphite",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E223",
+        "Name": "Sodium Metabisulphite",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E224",
+        "Name": "Potassium Metabisulphite",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E226",
+        "Name": "Calcium Sulphite",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E227",
+        "Name": "Calcium Hydrogen Sulphite",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E228",
+        "Name": "Potassium Hydrogen sulphite",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E230",
+        "Name": "Biphenyl / Diphenyl",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E231",
+        "Name": "2-Hydroxybiphenyl",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E232",
+        "Name": "Sodium Biphenyl-2-yl Oxide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E233",
+        "Name": "2-(Thiazol-4-yl) Benzimidazole",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E234",
+        "Name": "Nisin",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E235",
+        "Name": "Natamycin",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E239",
+        "Name": "Hexamine",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E242",
+        "Name": "Dimethyl dicarbonate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E249",
+        "Name": "Potassium Nitrate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E250",
+        "Name": "Sodium Nitrite",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E251",
+        "Name": "Sodium Nitrate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E252",
+        "Name": "Potassium Nitrate(Saltpetre)",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E260",
+        "Name": "Acetic Acid",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E261",
+        "Name": "Potassium Acetate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E262",
+        "Name": "Sodium Acetates",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E263",
+        "Name": "Calcium Acetate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E270",
+        "Name": "Lactic Acid",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E280",
+        "Name": "Propionic Acid",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E281",
+        "Name": "Sodium Propionate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E282",
+        "Name": "Calcium Propionate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E283",
+        "Name": "Potassium Propionate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E284",
+        "Name": "Boric acid",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E285",
+        "Name": "Sodium tetraborate; Borax",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E290",
+        "Name": "Carbon Dioxide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E296",
+        "Name": "Malic Acid",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E297",
+        "Name": "Fumaric Acid",
+        "Status": "HALAL"
+      }
+    ]
+  },
+  {
+    "Code": "Antioxidants, phosphates, and complexing agents",
+    "list": [
+      {
+        "Code": "E300",
+        "Name": "L-Ascorbic Acid (Vitamin C)",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E301",
+        "Name": "Sodium-L-Ascorbate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E302",
+        "Name": "Calcium-L-Ascorbate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E304",
+        "Name": "Ascorbyl Palmitate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E306",
+        "Name": "Antioxidants- Vitamin E",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E307",
+        "Name": "Synthetic Alpha-Tocopherol",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E308",
+        "Name": "Synthetic Gamma-Tocopherol",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E309",
+        "Name": "Synthetic Delta-Tocopherol",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E310",
+        "Name": "Propyl Gallate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E311",
+        "Name": "Octyl Gallate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E312",
+        "Name": "Dodecyl Gallate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E315",
+        "Name": "Erythorbic acid",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E316",
+        "Name": "Sodium erythorbate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E316",
+        "Name": "Sodium erythorbate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E316",
+        "Name": "Sodium erythorbate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E319",
+        "Name": "Tert-Butylhydroquinone (TBHQ)",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E320",
+        "Name": "Butylated Hydroxyanisole (BHA)",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E321",
+        "Name": "Butylated Hydroxytoluene (BHT)",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E322",
+        "Name": "Lecithin",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E325",
+        "Name": "Sodium Lactate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E326",
+        "Name": "Potassium Lactate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E327",
+        "Name": "Calcium Lactate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E330",
+        "Name": "Citric Acid",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E331",
+        "Name": "Sodium Citrates",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E332",
+        "Name": "Potassium Citrates",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E333",
+        "Name": "Calcium Citrates",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E334",
+        "Name": "Tartaric Acid",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E335",
+        "Name": "Sodium Tartrates",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E336",
+        "Name": "Potassium Tartrates (Cream of Tartar)",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E337",
+        "Name": "Potassium Sodium Tartrates",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E338",
+        "Name": "Orthophosphoric Acid",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E339",
+        "Name": "Sodium Phosphates",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E340",
+        "Name": "Potassium Phosphates",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E341",
+        "Name": "Calcium Phosphates",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E343",
+        "Name": "Magnesium phosphate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E350",
+        "Name": "Sodium Malate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E351",
+        "Name": "Potassium Malate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E352",
+        "Name": "Calcium Malate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E353",
+        "Name": "Metataric Acid",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E354",
+        "Name": "Calcium Tartrate",
+        "Status": "HARAM"
+      },
+      {
+        "Code": "E355",
+        "Name": "Adipic Acid",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E356",
+        "Name": "Sodium adipate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E357",
+        "Name": "Potassium adipate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E363",
+        "Name": "Succinic Acid",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E370",
+        "Name": "1,4-Heptonolactane",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E375",
+        "Name": "Nicotinic Acid",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E380",
+        "Name": "Triammonium Citrate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E381",
+        "Name": "Ammonium Ferric Citrate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E385",
+        "Name": "Calcium Disodium EDTA",
+        "Status": "HALAL"
+      }
+    ]
+  },
+  {
+    "Code": "Thickeners, gelling agents, phosphates, humectants, emulsifiers",
+    "list": [
+      {
+        "Code": "E400",
+        "Name": "Alginic Acid",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E401",
+        "Name": "Sodium Alginate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E402",
+        "Name": "Potassium Alginate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E403",
+        "Name": "Ammonium Alginate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E404",
+        "Name": "Calcium Alginate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E405",
+        "Name": "Propane-1,2-Diol Alginate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E406",
+        "Name": "Agar",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E407",
+        "Name": "Carrageenan",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E410",
+        "Name": "Locust Bean Gum (Carob Gum)",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E412",
+        "Name": "Guar Gum",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E413",
+        "Name": "Tragacanth",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E414",
+        "Name": "Gum Acacia (Gum Arabic)",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E415",
+        "Name": "Xanthan Gum",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E416",
+        "Name": "Karaya Gum",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E417",
+        "Name": "Tara Gum",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E418",
+        "Name": "Gellan Gum",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E420",
+        "Name": "Sorbitol",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E421",
+        "Name": "Mannitol",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E422",
+        "Name": "Glycerol",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E425",
+        "Name": "Konjac",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E430",
+        "Name": "Polyoxyethane (8) Stearate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E431",
+        "Name": "Polyoxyethane (40) Stearate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E432",
+        "Name": "Polyoxyethane (20) Sorbitan / Polysorbate 20",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E433",
+        "Name": "Polyoxyethane (20) Sorbitan Mono-oleate / Polysorbate 80.",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E434",
+        "Name": "Polyoxyethane (20) Sorbitan Monopalmitate / Polysorbate 40",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E435",
+        "Name": "Polyoxyethane (20) Sorbitan Monostearate / Polysorbate 60",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E436",
+        "Name": "Polyoxyethane (20) Sorbitan Tristearate / Polysorbate 65",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E440a",
+        "Name": "Pectin",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E440b",
+        "Name": "Amidated Pectin",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E441",
+        "Name": "Gelatin",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E442",
+        "Name": "Ammonium phosphatides",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E444",
+        "Name": "Sucrose accetate isobutyrate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E445",
+        "Name": "Glycerol esters of wood rosin",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E450a",
+        "Name": "Sodium and Potassium Phosphates and Polyphosphates",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E450b",
+        "Name": "Sodium and Potassium Phosphates and Polyphosphates",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E450c",
+        "Name": "Sodium and Potassium Phosphates and Polyphosphates",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E451",
+        "Name": "Triphosphates",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E452",
+        "Name": "Polyphosphate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E459",
+        "Name": "Beta-Cyclodextrin",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E460",
+        "Name": "Microcrystalline / Powdered Cellulose",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E461",
+        "Name": "Methylcellulose",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E463",
+        "Name": "Hydroxypropylcellulose",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E464",
+        "Name": "Hydroxypropyl-Methylcellulose",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E465",
+        "Name": "Ethylmethylcellulose",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E466",
+        "Name": "Carboxymethylcellulose, Sodium Salt",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E467",
+        "Name": "Sodium Carboxy methyl cellulose",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E468",
+        "Name": "Cross Linked Carboxy methyl cellulose",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E469",
+        "Name": "Enzymatically hydrolyzed Carboxy Methyl Cellulose",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E470",
+        "Name": "Sodium, Potassium and Calcium Salts of Fatty Acids",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E471",
+        "Name": "Mono-and Diglycerides of Fatty Acids",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E472",
+        "Name": "Various Esters of Mono-and Diglycerides of Fatty Acids",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E472e",
+        "Name": "Monoand diacetyl tartaric acid esters of mono & diglycerides",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E473",
+        "Name": "Sucrose Esters of Fatty Acids",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E474",
+        "Name": "Sucroglycerides",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E475",
+        "Name": "Polyglycerol Esters of Fatty Acids",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E476",
+        "Name": "Polyglycerol Esters of Polycondensed Esters of Caster Oil",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E477",
+        "Name": "Propane-1,2-Diol Esters of Fatty Acids",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E478",
+        "Name": "Lactylated Fatty Acid Esters of Glycerol and Propane-1,2-Diol",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E479b",
+        "Name": "Thermally oxidized soybean oil interacted with mono and diglycerides of fatty acids",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E481",
+        "Name": "Sodium Stearoyl-2-Lactylate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E482",
+        "Name": "Calcium Stearoyl-2-Lactylate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E483",
+        "Name": "Stearyl Tartrate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E491",
+        "Name": "Sorbitan Monostearate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E492",
+        "Name": "Sorbitan Tristearate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E493",
+        "Name": "Sorbitan Monolaurate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E494",
+        "Name": "Sorbitan Mono-oleate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E495",
+        "Name": "Sorbitan Monopalmitate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E496",
+        "Name": "Sorbitan Trioleate",
+        "Status": "MUSHBOOH"
+      }
+    ]
+  },
+  {
+    "Code": "Salts and related compounds",
+    "list": [
+      {
+        "Code": "E500",
+        "Name": "Sodium Carbonate / Sodium Bicarbonate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E501",
+        "Name": "Potassium Carbonate / Potassium Bicarbonate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E503",
+        "Name": "Ammonium Carbonate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E504",
+        "Name": "Magnesium Carbonate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E507",
+        "Name": "Hydrochloric Acid",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E508",
+        "Name": "Potassium Chloride",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E509",
+        "Name": "Calcium Chloride",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E510",
+        "Name": "Ammonium Chloride",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E511",
+        "Name": "Magnesium Chloride",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E512",
+        "Name": "Stannous chloride",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E513",
+        "Name": "Sulphuric Acid",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E514",
+        "Name": "Sodium Sulphate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E515",
+        "Name": "Potassium Sulphate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E516",
+        "Name": "Calcium Sulphate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E517",
+        "Name": "Ammonium Sulphate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E518",
+        "Name": "Magnesium Sulphate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E520",
+        "Name": "Almunium sulphate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E521",
+        "Name": "Alimunium Sodium Sulphate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E522",
+        "Name": "Aluminium Potassium Sulphate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E523",
+        "Name": "Aluminium Ammonium Sulphate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E524",
+        "Name": "Sodium Hydroxide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E525",
+        "Name": "Potassium Hydroxide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E526",
+        "Name": "Calcium Hydroxide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E527",
+        "Name": "Ammonium Hydroxide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E528",
+        "Name": "Magnesium Hydroxide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E529",
+        "Name": "Calcium Oxide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E530",
+        "Name": "Magnesium Oxide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E535",
+        "Name": "Sodium Ferrocyanide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E536",
+        "Name": "Potassium Ferrocyanide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E538",
+        "Name": "Calcium Ferrocyanide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E540",
+        "Name": "Dicalcium Ferrocyanide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E541",
+        "Name": "Sodium Aluminium Phosphate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E542",
+        "Name": "Edible Bone Phosphate (Bone-Meal)",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E544",
+        "Name": "Calcium Polyphosphates",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E545",
+        "Name": "Ammonium Polyphosphates",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E550",
+        "Name": "Sodium Silicate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E551",
+        "Name": "Silicon Dioxide (Silica Salt)",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E552",
+        "Name": "Calcium Silicate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E553",
+        "Name": "Magnesium Silicate / Magnesium Trisilicate (Talc)",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E554",
+        "Name": "Aluminium Sodium Silicate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E555",
+        "Name": "Potassium Aluminium Sillicate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E556",
+        "Name": "Aluminium Calcium Silicate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E558",
+        "Name": "Bentonite",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E559",
+        "Name": "Kaolin (Aluminium Silicate)",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E570",
+        "Name": "Stearic Acid",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E572",
+        "Name": "Magnesium Stearate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E574",
+        "Name": "Gluconic Acids",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E575",
+        "Name": "Glucono Delta-Lactone",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E576",
+        "Name": "Sodium Gluconate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E577",
+        "Name": "Potassium Gluconate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E578",
+        "Name": "Calcium Gluconate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E585",
+        "Name": "Ferrous Lactate",
+        "Status": "HALAL"
+      }
+    ]
+  },
+  {
+    "Code": "Flavor enhancers",
+    "list": [
+      {
+        "Code": "E620",
+        "Name": "L-Glutamic Acid",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E621",
+        "Name": "Monosodium Glutamate (MSG)",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E622",
+        "Name": "Monopotassium Glutamate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E623",
+        "Name": "Calcium Glutamate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E624",
+        "Name": "Mono ammonium glutamate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E625",
+        "Name": "Magnesium diglutamate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E626",
+        "Name": "Guanylic Acid",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E627",
+        "Name": "Sodium Guanylate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E628",
+        "Name": "Dipotassium Guanylate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E629",
+        "Name": "Calcium Guanylate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E630",
+        "Name": "Inosinic acid",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E631",
+        "Name": "Sodium Inosinate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E632",
+        "Name": "Dipotassium Inosinate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E633",
+        "Name": "Calcium Inosinate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E634",
+        "Name": "Calcium5-Ribonucleotide",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E635",
+        "Name": "Sodium5-Ribonucleotide",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E636",
+        "Name": "Maltol",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E637",
+        "Name": "Ethyl Maltol",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E640",
+        "Name": "Glycine and its sodium salt",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E650",
+        "Name": "Zinc Acetate",
+        "Status": "HALAL"
+      }
+    ]
+  },
+  {
+    "Code": "Surface coating agents, gases, sweeteners",
+    "list": [
+      {
+        "Code": "E900",
+        "Name": "Dimethylpolysiloxane",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E901",
+        "Name": "Beeswax",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E902",
+        "Name": "Candelilla Wax",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E903",
+        "Name": "Carnauba Wax",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E904",
+        "Name": "Shellac",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E905",
+        "Name": "Mineral Hydrocarbons",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E907",
+        "Name": "Refined Microcrystalline Wax",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E912",
+        "Name": "Montan Acid Esters",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E913",
+        "Name": "Lanolin",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E914",
+        "Name": "Oxidised Polyethylene Wax",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E920",
+        "Name": "L-Cysteine Hydrochloride",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E924",
+        "Name": "Potassium Bromate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E925",
+        "Name": "Chlorine",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E926",
+        "Name": "Chlorine Dioxide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E927b",
+        "Name": "Carbamide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E938",
+        "Name": "Argon",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E939",
+        "Name": "Helium",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E941",
+        "Name": "Nitrogen",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E942",
+        "Name": "Nitrous Oxide",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E943a",
+        "Name": "Butane",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E943b",
+        "Name": "Iso-butane",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E944",
+        "Name": "Propane",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E949",
+        "Name": "Hydrogen",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E951",
+        "Name": "Aspartane",
+        "Status": "HARAM"
+      },
+      {
+        "Code": "E953",
+        "Name": "Isomalt",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E954",
+        "Name": "Sacharin",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E965",
+        "Name": "Maltitol",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E966",
+        "Name": "Lactitol",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E967",
+        "Name": "Xylitol",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E968",
+        "Name": "Erythritol",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E999",
+        "Name": "Quillaia Extract",
+        "Status": "HARAM"
+      }
+    ]
+  },
+  {
+    "Code": "Miscellaneous additive",
+    "list": [
+      {
+        "Code": 1100,
+        "Name": "Amylase Enzyme",
+        "Status": "HALAL"
+      },
+      {
+        "Code": 1101,
+        "Name": "Protease Enzyme",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E1103",
+        "Name": "Invertase Enzyme",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E1105",
+        "Name": "Lysozyme Enzyme",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E1200",
+        "Name": "Polydextrose",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E1201",
+        "Name": "Polyvinylpyrrolidone",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "Starch derivatives"
+      },
+      {
+        "Code": "E1400",
+        "Name": "Dextrin",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E1401",
+        "Name": "Acid Treated Starch",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E1404",
+        "Name": "Oxidized Starch",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E141",
+        "Name": "Copper Complex of Chlorophyll",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E1410",
+        "Name": "Mono starch Phosphate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E1412",
+        "Name": "Distarch phosphate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E1413",
+        "Name": "Phosphated sistarch phosphate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E142",
+        "Name": "Green S / Acid Brilliant Green BS",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E1420",
+        "Name": "Acetylated Starch",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E1422",
+        "Name": "Acetylated distarch phosphate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E1442",
+        "Name": "Hydroxy propyl distarch phosphate",
+        "Status": "MUSHBOOH"
+      },
+      {
+        "Code": "E1450",
+        "Name": "Starch Sodium Octenyl Succinate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E1451",
+        "Name": "Acetylated Oxidized Starch",
+        "Status": "HALAL"
+      }
+    ]
+  },
+
+  {
+    "Code": "Other",
+    "list": [
+      {
+        "Code": "E1505",
+        "Name": "Trietyhl Citrate",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E1518",
+        "Name": "Glyceryl Triacetate, Triacetin",
+        "Status": "HALAL"
+      },
+      {
+        "Code": "E1520",
+        "Name": "Propylene Glycol",
+        "Status": "HALAL"
+      }
+    ]
+  }
+]
