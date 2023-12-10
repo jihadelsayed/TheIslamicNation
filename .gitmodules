@@ -13,3 +13,6 @@
 [submodule "TheIslamicNation_Food"]
 	path = TheIslamicNation_Food
 	url = https://github.com/jihadelsayed/TheIslamicNation_Food.git
+[submodule "TheIslamicNation_Cyper"]
+	path = TheIslamicNation_Cyper
+	url = https://github.com/jihadelsayed/TheIslamicNation_Cyper
