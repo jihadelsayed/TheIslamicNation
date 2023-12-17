@@ -13,6 +13,9 @@
 [submodule "TheIslamicNation_Food"]
 	path = TheIslamicNation_Food
 	url = https://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@github.com/jihadelsayed/TheIslamicNation_Food.git
+[submodule "TheIslamicNation_Quran"]
+	path = TheIslamicNation_Quran
+	url = https://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@github.com/jihadelsayed/TheIslamicNation_Quran.git
 [submodule "TheIslamicNation_Cyper"]
 	path = TheIslamicNation_Cyper
 	url = https://github.com/jihadelsayed/TheIslamicNation_Cyper
