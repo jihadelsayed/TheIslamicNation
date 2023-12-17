@@ -16,3 +16,6 @@
 [submodule "TheIslamicNation_Cyper"]
 	path = TheIslamicNation_Cyper
 	url = https://github.com/jihadelsayed/TheIslamicNation_Cyper
+[submodule "TheIslamicNation_Quran"]
+	path = TheIslamicNation_Quran
+	url = https://github.com/jihadelsayed/TheIslamicNation_Quran
