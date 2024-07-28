@@ -1,0 +1,45 @@
+{
+    "children": [
+      {
+        "name": "Qasim ibn Muhammad",
+        "birth": "Approx. 598 CE",
+        "death": "Died young in Mecca"
+      },
+      {
+        "name": "Zainab bint Muhammad",
+        "birth": "Approx. 599 CE",
+        "death": "630 CE",
+        "notes": "Married Abu al-As ibn al-Rabi. She had two children, Ali and Umamah."
+      },
+      {
+        "name": "Ruqayyah bint Muhammad",
+        "birth": "Approx. 601 CE",
+        "death": "624 CE",
+        "notes": "Married Uthman ibn Affan. She had one son, Abdullah, who also died young."
+      },
+      {
+        "name": "Umm Kulthum bint Muhammad",
+        "birth": "Approx. 603 CE",
+        "death": "630 CE",
+        "notes": "Also married Uthman ibn Affan after the death of her sister Ruqayyah."
+      },
+      {
+        "name": "Fatimah bint Muhammad",
+        "birth": "Approx. 605 CE",
+        "death": "632 CE",
+        "notes": "Married Ali ibn Abi Talib. She had five children: Hasan, Husayn, Muhsin (died in infancy), Zaynab, and Umm Kulthum."
+      },
+      {
+        "name": "Abdullah ibn Muhammad",
+        "birth": "Approx. 611 CE",
+        "death": "Died young in Mecca"
+      },
+      {
+        "name": "Ibrahim ibn Muhammad",
+        "birth": "630 CE",
+        "death": "632 CE",
+        "notes": "Mother was Maria al-Qibtiyya. Died in infancy."
+      }
+    ]
+  }
+  

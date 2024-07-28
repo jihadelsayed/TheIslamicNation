@@ -1,0 +1,39 @@
+{
+    "descendants": [
+      {
+        "name": "Fatimah bint Muhammad",
+        "children": [
+          {
+            "name": "Hasan ibn Ali",
+            "birth": "625 CE",
+            "death": "670 CE",
+            "notes": "Had several children, including Hasan al-Muthanna, Zayd ibn Hasan, and Umm al-Husayn."
+          },
+          {
+            "name": "Husayn ibn Ali",
+            "birth": "626 CE",
+            "death": "680 CE",
+            "notes": "Had several children, including Ali Zayn al-Abidin, Ali al-Akbar, and Fatimah al-Kubra."
+          },
+          {
+            "name": "Muhsin ibn Ali",
+            "birth": "Unknown",
+            "death": "Died in infancy"
+          },
+          {
+            "name": "Zaynab bint Ali",
+            "birth": "626 CE",
+            "death": "682 CE",
+            "notes": "Married Abdullah ibn Ja'far and had several children."
+          },
+          {
+            "name": "Umm Kulthum bint Ali",
+            "birth": "628 CE",
+            "death": "d. 680 CE",
+            "notes": "Married Umar ibn al-Khattab and had two children: Zayd ibn Umar and Ruqayyah bint Umar."
+          }
+        ]
+      }
+    ]
+  }
+  

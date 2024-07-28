@@ -1,0 +1,93 @@
+{
+    "wives": [
+      {
+        "name": "Khadijah bint Khuwaylid",
+        "details": {
+          "description": "First wife, married before he received prophethood. She was a wealthy widow and successful businesswoman.",
+          "children": ["four daughters and two sons, who died in infancy"],
+          "additional_info": "She passed away before the Hijra (migration to Medina)."
+        }
+      },
+      {
+        "name": "Sawdah bint Zam'ah",
+        "details": {
+          "description": "Second wife, married after Khadijah's death. She was a widow and known for her humor and generosity.",
+          "children": [],
+          "additional_info": ""
+        }
+      },
+      {
+        "name": "Aisha bint Abi Bakr",
+        "details": {
+          "description": "Daughter of Abu Bakr, she was the only virgin he married and played a significant role in early Islamic history.",
+          "children": [],
+          "additional_info": "Known for her intelligence and knowledge, she narrated many hadiths."
+        }
+      },
+      {
+        "name": "Hafsa bint Umar",
+        "details": {
+          "description": "Daughter of Umar ibn al-Khattab, she was a widow before marrying the Prophet.",
+          "children": [],
+          "additional_info": "Known for her piety and memorization of the Quran."
+        }
+      },
+      {
+        "name": "Zaynab bint Khuzayma",
+        "details": {
+          "description": "Known as 'Mother of the Poor' due to her charity work, she died only eight months after marrying the Prophet.",
+          "children": [],
+          "additional_info": ""
+        }
+      },
+      {
+        "name": "Umm Salama (Hind bint Abi Umayya)",
+        "details": {
+          "description": "A widow with children, known for her wisdom and strong faith.",
+          "children": [],
+          "additional_info": "Played a crucial role in the early Muslim community."
+        }
+      },
+      {
+        "name": "Zaynab bint Jahsh",
+        "details": {
+          "description": "Former wife of Zayd ibn Harithah, her marriage to the Prophet highlighted important social reforms.",
+          "children": [],
+          "additional_info": "She was known for her charity work."
+        }
+      },
+      {
+        "name": "Juwayriya bint al-Harith",
+        "details": {
+          "description": "Captured in a battle and then married the Prophet, her marriage led to the emancipation of many captives.",
+          "children": [],
+          "additional_info": ""
+        }
+      },
+      {
+        "name": "Umm Habiba (Ramlah bint Abi Sufyan)",
+        "details": {
+          "description": "Daughter of Abu Sufyan, she converted to Islam and married the Prophet while in Abyssinia.",
+          "children": [],
+          "additional_info": ""
+        }
+      },
+      {
+        "name": "Safiyya bint Huyayy",
+        "details": {
+          "description": "Jewish noblewoman captured in a battle, she married the Prophet and embraced Islam.",
+          "children": [],
+          "additional_info": ""
+        }
+      },
+      {
+        "name": "Maymunah bint al-Harith",
+        "details": {
+          "description": "The last woman he married, known for her piety and devotion.",
+          "children": [],
+          "additional_info": ""
+        }
+      }
+    ]
+  }
+  
